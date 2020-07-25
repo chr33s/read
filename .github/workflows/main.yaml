@@ -1,0 +1,24 @@
+name: Update docs/data/cache
+on:
+  schedule:
+    - cron: '0 7 * * *'
+
+jobs:
+  build:
+    name: Update
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+    - name: Build data
+      uses: actions/setup-node@v1
+      with:
+        node-version: '10.x'
+    - run: npm install
+    - run: node ./index.js
+    - name: Commit data
+      run: git remote set-url origin ${{ secrets.ssh }}
+    - run: git status
+    - run: git add .
+    - run: git commit -m "update cache"
+    - run: git fetch origin main
+    - run: git push origin HEAD:main

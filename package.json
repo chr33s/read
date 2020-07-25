@@ -1,0 +1,9 @@
+{
+  "name": "reader",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@postlight/mercury-parser": "2.2.0",
+    "rss-parser": "3.9.0"
+  }
+}
