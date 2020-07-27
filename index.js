@@ -2,7 +2,7 @@
 
 const { parse } = require('@postlight/mercury-parser')
 const Parser = require('rss-parser')
-const fs = require('fs');
+const fs = require('fs')
 
 const source = require('./docs/data/source.json')
 const cache = require('./docs/data/cache.json')
@@ -23,7 +23,7 @@ const main = async () => {
 
         try {
           const p = await parse(item.link)
-          d.content = p.excerpt;
+          d.content = p.excerpt
         } catch(e) {}
 
         return d
@@ -33,17 +33,18 @@ const main = async () => {
     }
   }))
 
-  data.push(cache);
-  const flat = [].concat.apply([], data)
-  const filter = flat
+  data.push(cache)
+
+  const formatted = [].concat.apply([], data) // flatten array
     .filter(Boolean) // not null
     .filter((v) => new Date(v.date) > new Date().setDate(new Date().getDate()-30)) // older 30 days
-  const sort = filter.sort((a, b) => {
-    return new Date(b.date) - new Date(a.date)
-  });
-  const string = JSON.stringify(sort, null, 2)
+    .filter((v, i, a) => a.map((u) => u.url).indexOf(v.url) === i) // unique
+    .sort((a, b) => new Date(b.date) - new Date(a.date)) // by date
 
-  fs.writeFileSync('./docs/data/cache.json', string)
+  fs.writeFileSync(
+    './docs/data/cache.json',
+    JSON.stringify(formatted, null, 2),
+  )
 }
 
 main()
