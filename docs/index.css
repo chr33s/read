@@ -40,12 +40,17 @@ main ul {
   padding: 0;
 }
 
-main li {
+main li:not(:last-child) {
+  border-bottom: 1px solid #ccc;
+}
+
+main a {
+  display: block;
   padding: 5px 10px;
 }
 
-main li:not(:last-child) {
-  border-bottom: 1px solid #ccc;
+main a.read {
+  background-color: rgba(0, 0, 0, 0.025);
 }
 
 main h2 {
