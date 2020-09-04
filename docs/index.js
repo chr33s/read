@@ -24,9 +24,7 @@ const createElement = (type, text = '') => {
     if (read.includes(v.url)) {
       a.classList.add('read');
     }
-    const onclick = (e) => {
-      e.preventDefault();
-
+    const markAsRead = (e) => {
       if (!read.includes(v.url)) {
         read.push(v.url);
         a.classList.add('read');
@@ -36,12 +34,43 @@ const createElement = (type, text = '') => {
       }
       window.localStorage.setItem('read', JSON.stringify(read));
     }
-    a.onclick = onclick;
-    a.ondblclick = (e) => {
-      onclick(e);
+    a.onclick = (e) => {
+      e.preventDefault();
+
+      markAsRead(e);
 
       window.open(v.url);
     }
+
+    let xDown = null;
+    let yDown = null;
+    const handleTouchStart = (e) => {
+      xDown = e.touches[0].clientX;
+      yDown = e.touches[0].clientY;
+    }
+    const handleTouchMove = (e) => {
+      if (!xDown || !yDown) {
+        return;
+      }
+
+      const xUp = e.touches[0].clientX;
+      const yUp = e.touches[0].clientY;
+
+      const xDiff = xDown - xUp;
+      const yDiff = yDown - yUp;
+      if(Math.abs(xDiff) + Math.abs(yDiff) > 250) { // short swipes
+        if (Math.abs(xDiff) > Math.abs(yDiff)) { // left|right swipe
+          e.preventDefault();
+
+          markAsRead(e);
+        }
+        /* reset values */
+        xDown = null;
+        yDown = null;
+      }
+    }
+    a.addEventListener('touchstart', handleTouchStart, false);
+    a.addEventListener('touchmove', handleTouchMove, false);
 
     li.appendChild(a);
 

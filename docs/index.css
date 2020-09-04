@@ -48,6 +48,10 @@ header a {
   top: 0;
 }
 
+main {
+  overflow-x: hidden;
+}
+
 main ul {
   list-style: none;
   margin: 0;
