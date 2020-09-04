@@ -9,6 +9,8 @@ const cache = require('./docs/data/cache.json')
 
 const parser = new Parser()
 
+const clean = (url) => url.split('?source')[0];
+
 const main = async () => {
   const data = await Promise.all(source.map(async (s) => {
     try {
@@ -38,7 +40,7 @@ const main = async () => {
   const formatted = [].concat.apply([], data) // flatten array
     .filter(Boolean) // not null
     .filter((v) => new Date(v.date) > new Date().setDate(new Date().getDate()-30)) // older 30 days
-    .filter((v, i, a) => a.map((u) => u.url).indexOf(v.url) === i) // unique
+    .filter((v, i, a) => a.map((u) => clean(u.url)).indexOf(clean(v.url)) === i) // unique
     .sort((a, b) => new Date(b.date) - new Date(a.date)) // by date
 
   fs.writeFileSync(
