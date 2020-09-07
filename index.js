@@ -7,7 +7,7 @@ const fs = require('fs')
 const source = require('./docs/data/source.json')
 const cache = require('./docs/data/cache.json')
 
-const parser = new Parser()
+const parser = new Parser({ timeout: 3 * 1000 })
 
 const clean = (url) => url.split('?source')[0];
 
