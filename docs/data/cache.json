@@ -1,5 +1,662 @@
 [
   {
+    "date": "2020-10-31T05:20:05.000Z",
+    "title": "Foundations of Software Engineering",
+    "url": "https://cmu-313.github.io",
+    "content": "When is a program good enough to ship? Have you built what the customer wanted? Why (and how) does Netflix deliberately and randomly take down its own servers? What can we learn from the Boeing 737&hellip;"
+  },
+  {
+    "date": "2020-10-31T03:22:27.000Z",
+    "title": "Is This the End of the Repairable iPhone?",
+    "url": "https://www.ifixit.com/News/45921/is-this-the-end-of-the-repairable-iphone",
+    "content": "It might be a bug, or it might be a sign of an even more locked-down future. Why the iPhone 12’s faulty camera has us worried."
+  },
+  {
+    "date": "2020-10-31T02:49:19.000Z",
+    "title": "A Better Mousetrap – Converting WebPages to Web APIs",
+    "url": "https://turnerj.com/blog/a-better-mousetrap",
+    "content": "Today is a big day for me as after many months (or years depending how you look at it), I've finally launched the first product for my business, BrandVantage. This post is the story of how I started&hellip;"
+  },
+  {
+    "date": "2020-10-31T02:48:15.000Z",
+    "title": "PG&E should be fined $166M for botched power shut-offs, watchdog says",
+    "url": "https://www.latimes.com/environment/story/2020-10-30/pge-fine-recommended-power-outages",
+    "content": "The company failed to notify tens of thousands of customers that blackouts were imminent."
+  },
+  {
+    "date": "2020-10-31T02:05:57.000Z",
+    "title": "Packaging Kubernetes for Debian",
+    "url": "https://lwn.net/SubscriberLink/835599/f3b49b022582e03e/",
+    "content": "Linux distributors are in the business of integrating software from multiple sources, packaging the result, and making it available to their users. It has long been true that some projects are easier&hellip;"
+  },
+  {
+    "date": "2020-10-31T01:54:26.000Z",
+    "title": "Distributed Systems Learning Notes",
+    "url": "https://timilearning.com/",
+    "content": "MIT 6.824: Lecture 15 - Spark 16 Oct 2020 · 5 min read In the first lecture of this series, I wrote about MapReduce as a distributed computation framework. MapReduce partitions the input data across&hellip;"
+  },
+  {
+    "date": "2020-10-30T23:29:39.000Z",
+    "title": "Angular 11 Bootstrap Full Step-by-Step Tutorial",
+    "url": "https://medium.com/techiediaries-com/angular-11-bootstrap-full-step-by-step-tutorial-bf751cadad6?source=rss-------8-----------------javascript",
+    "content": "Throughout this tutorial, we’ll learn how to use bootstrap 4 with Angular 11 (and any previous versions such as Angular 10/9) to make your…"
+  },
+  {
+    "date": "2020-10-30T22:55:59.000Z",
+    "title": "New nuclear plant at Sizewell set for green light",
+    "url": "https://www.bbc.com/news/business-54754016",
+    "content": "The BBC has learned that talks with contractor EDF have intensified in recent weeks."
+  },
+  {
+    "date": "2020-10-30T22:33:33.000Z",
+    "title": "How to Deal with Extreme Physical Pain",
+    "url": "https://www.hanselman.com/blog/how-to-deal-with-extreme-physical-pain",
+    "content": "I'm in a LOT of pain right now. It's hard to say that, especially considering ..."
+  },
+  {
+    "date": "2020-10-30T22:10:39.000Z",
+    "title": "Getting Started With Vue.js",
+    "url": "https://medium.com/@fosterv222/getting-started-with-vue-js-fe0d2ac38d07?source=rss-------8-----------------javascript",
+    "content": "Designing things for the web nowadays requires that sites be interactive and react quickly. There have been many studies done about how…"
+  },
+  {
+    "date": "2020-10-30T21:25:08.000Z",
+    "title": "Building a Countdown Timer with Vanilla JavaScript",
+    "url": "https://medium.com/javascript-in-plain-english/building-a-countdown-timer-with-vanilla-javascript-d78d2ca7f180?source=rss-------8-----------------javascript",
+    "content": "Let’s Build a Countdown Timer Using Vanilla JavaScript"
+  },
+  {
+    "date": "2020-10-30T21:03:22.000Z",
+    "title": "Week 5: Forem Hacktoberfest Twitch Events Recap",
+    "url": "https://dev.to/coffeecraftcode/week-5-forem-hacktoberfest-twitch-events-recap-23h9",
+    "content": "This week, the Forem team wrapped up our Hacktoberfest streams on Twitch! Here is a recap of what we..."
+  },
+  {
+    "date": "2020-10-30T20:54:15.000Z",
+    "title": "Expo Firebase Authentication & Cloud Firestore using async/await & React Hooks",
+    "url": "https://medium.com/@katwingki/expo-firebase-authentication-cloud-firestore-using-async-await-react-hooks-700920ad4b2b?source=rss-------8-----------------javascript",
+    "content": "Introduction"
+  },
+  {
+    "date": "2020-10-30T20:53:42.000Z",
+    "title": "Creating Beautiful Animations in React Native",
+    "url": "https://medium.com/better-programming/it-is-moving-a68b89aee1e5?source=rss----d0b105d10f0a---4",
+    "content": "Animations make your app visually more attractive. Animate the header in your React Native app"
+  },
+  {
+    "date": "2020-10-30T20:02:16.000Z",
+    "title": "Becoming Root Through An SUID Executable",
+    "url": "https://medium.com/@vickieli/becoming-root-through-an-suid-executable-47473173a6ec?source=rss-------8-----------------cybersecurity",
+    "content": "Linux Privilege Escalation By Exploiting The SUID Bit"
+  },
+  {
+    "date": "2020-10-30T19:59:30.000Z",
+    "title": "Writing Environment Values to Allure Report in Java",
+    "url": "https://levelup.gitconnected.com/writing-environment-values-to-allure-report-in-java-47ab4d681fc4?source=rss----5517fd7b58a6---4",
+    "content": "Aiming to extend Allure framework with a nice capability, I made Java library which allows to write values to environment.xml file on…"
+  },
+  {
+    "date": "2020-10-30T19:58:49.000Z",
+    "title": "3 CQRS Architectures that Every Software Architect Should Know",
+    "url": "https://levelup.gitconnected.com/3-cqrs-architectures-that-every-software-architect-should-know-a7f69aae8b6c?source=rss----5517fd7b58a6---4",
+    "content": "Separation of concerns is a technique for the effective ordering of one’s thoughts. You should focus one’s attention upon one aspect. —…"
+  },
+  {
+    "date": "2020-10-30T19:57:42.000Z",
+    "title": "Extend The Lifespan of Your Raspberry Pi’s SD Card with log2ram",
+    "url": "https://levelup.gitconnected.com/extend-the-lifespan-of-your-raspberry-pis-sd-card-with-log2ram-5929bf3316f2?source=rss----5517fd7b58a6---4",
+    "content": "Log2ram is a software that redirects logs to the memory instead of the SD Card. Here’s how I used it to extend my SD Card’s lifespan in my…"
+  },
+  {
+    "date": "2020-10-30T19:57:32.000Z",
+    "title": "A Comprehensive Guide to Setting Up Next.js With TypeScript and TailwindCSS",
+    "url": "https://medium.com/better-programming/a-comprehensive-guide-to-setting-up-next-js-with-typescript-and-tailwindcss-75fce249110c?source=rss----d0b105d10f0a---4",
+    "content": "Set up your Next.js project with TypeScript and Tailwind"
+  },
+  {
+    "date": "2020-10-30T19:57:25.000Z",
+    "title": "Improve iOS App Performance",
+    "url": "https://levelup.gitconnected.com/improve-ios-app-performance-64ead2b247d1?source=rss----5517fd7b58a6---4",
+    "content": "Code quality depends on several factors like readability, accurancy, performance, etc. If you think that time is the most important thing…"
+  },
+  {
+    "date": "2020-10-30T19:55:11.000Z",
+    "title": "Understanding Unowned and Weak in Swift",
+    "url": "https://levelup.gitconnected.com/understanding-unowned-and-weak-in-swift-17d3edc486b7?source=rss----5517fd7b58a6---4",
+    "content": "It’s difficult to understand when or even if you need them. So let’s look at some ways to know when to do this."
+  },
+  {
+    "date": "2020-10-30T19:52:11.000Z",
+    "title": "A Hands-On Introduction to WebAssembly With Go",
+    "url": "https://levelup.gitconnected.com/a-hands-on-introduction-to-webassembly-with-go-959babb58109?source=rss----5517fd7b58a6---4",
+    "content": "Run GoLang for the browser with WebAssembly and make it efficient with TinyGo!"
+  },
+  {
+    "date": "2020-10-30T18:25:59.000Z",
+    "title": "5Gbps Ethernet on the Raspberry Pi Compute Module 4",
+    "url": "https://www.jeffgeerling.com/blog/2020/5-gbps-ethernet-on-raspberry-pi-compute-module-4",
+    "content": "tl;dr: I successfully got the Intel I340-T4 4x Gigabit NIC working on the Raspberry Pi Compute Module 4, and combining all the interfaces (including the internal Pi interface), I could get up to 3.06&hellip;"
+  },
+  {
+    "date": "2020-10-30T18:23:31.000Z",
+    "title": "Event Loops in JavaScript",
+    "url": "https://medium.com/@magdalenacooper/event-loops-in-javascript-a2623078fd0d?source=rss-------8-----------------javascript",
+    "content": "When you are first introduced to asynchronous programming in JavaScript you may wonder how it’s possible. JavaScript is single-threaded…"
+  },
+  {
+    "date": "2020-10-30T18:20:14.000Z",
+    "title": "Beautifully preserved cave bears emerge from Siberian permafrost",
+    "url": "https://arstechnica.com/science/2020/09/beautifully-preserved-cave-bears-emerge-from-siberian-permafrost/",
+    "content": "Two finds recently unearthed the frozen remains of an adult cave bear and a cub."
+  },
+  {
+    "date": "2020-10-30T18:18:55.000Z",
+    "title": "Web Based Visualization with Chart.js",
+    "url": "https://medium.com/javascript-in-plain-english/web-based-visualization-with-chart-js-7aa5af9102cd?source=rss----4b3a1ed4f11c---4",
+    "content": "How to make a good looking pie chart with Chart.js"
+  },
+  {
+    "date": "2020-10-30T18:18:18.000Z",
+    "title": "How I use Node.js professionally",
+    "url": "https://medium.com/javascript-in-plain-english/how-i-use-node-js-professionally-7b91b07f3f36?source=rss----4b3a1ed4f11c---4",
+    "content": "It slices! It dices! But wait! There is more!"
+  },
+  {
+    "date": "2020-10-30T18:17:06.000Z",
+    "title": "The Good and Bad of Angular Development",
+    "url": "https://medium.com/javascript-in-plain-english/the-good-and-bad-of-angular-development-f48ac045d556?source=rss----4b3a1ed4f11c---4",
+    "content": "The Angular framework is here around for almost ten years. It is introduced and used by Google to build robust software products. This…"
+  },
+  {
+    "date": "2020-10-30T18:16:06.000Z",
+    "title": "How I Automated My Job with Node.js",
+    "url": "https://medium.com/javascript-in-plain-english/how-i-automated-my-job-with-node-js-b282374abf94?source=rss----4b3a1ed4f11c---4",
+    "content": "Increase Performance by Automating the Repetitive Tasks"
+  },
+  {
+    "date": "2020-10-30T18:15:49.000Z",
+    "title": "6 Ways to Practice Your Coding Skills and Grow Your Career as a JavaScript Developer",
+    "url": "https://medium.com/javascript-in-plain-english/6-ways-to-practice-your-coding-skills-and-grow-your-career-as-a-javascript-developer-8b03182fc2d3?source=rss----4b3a1ed4f11c---4",
+    "content": "It’s time to get your hands dirty"
+  },
+  {
+    "date": "2020-10-30T18:14:37.000Z",
+    "title": "Vue 3 — Custom Events",
+    "url": "https://medium.com/javascript-in-plain-english/vue-3-custom-events-d2f310fe34c9?source=rss----4b3a1ed4f11c---4",
+    "content": "We can emit events from child to parent."
+  },
+  {
+    "date": "2020-10-30T18:14:32.000Z",
+    "title": "Best of Modern JavaScript — Maps",
+    "url": "https://medium.com/javascript-in-plain-english/best-of-modern-javascript-maps-7db0744b8943?source=rss----4b3a1ed4f11c---4",
+    "content": "Many things we can do with maps."
+  },
+  {
+    "date": "2020-10-30T18:10:45.000Z",
+    "title": "Understanding asynchronous code in Babylon.js",
+    "url": "https://medium.com/@babylonjs/understanding-asynchronous-code-in-babylon-js-cb534634beb?source=rss-------8-----------------javascript",
+    "content": "One of my personal hills, that I’m ready to die for, is the opportunity to improve JavaScript by adding better threading support. So far…"
+  },
+  {
+    "date": "2020-10-30T18:00:54.000Z",
+    "title": "Business “composers” with functional composition",
+    "url": "https://medium.com/@eliasmsedano/business-composers-with-functional-composition-438f3bef2fa0?source=rss-------8-----------------javascript",
+    "content": "There is one thing in Javascript (or any functional programming language) I consider any OOP envy how easy is to implement, Javascript can…"
+  },
+  {
+    "date": "2020-10-30T17:50:37.000Z",
+    "title": "Recoil.js: The Current Landscape of Developer Tools",
+    "url": "https://medium.com/better-programming/recoiljs-current-landscape-of-developer-tools-2e242d4509ae?source=rss----d0b105d10f0a---4",
+    "content": "The definitive guide to Recoil (Part 2)"
+  },
+  {
+    "date": "2020-10-30T17:40:00.000Z",
+    "title": "Lobe.ai – A simple tool for training machine learning models",
+    "url": "https://lobe.ai/",
+    "content": "Download the free, easy to use app that helps you train custom machine learning models and ship them in your app."
+  },
+  {
+    "date": "2020-10-30T17:36:44.000Z",
+    "title": "Swift Concurrency Roadmap",
+    "url": "https://forums.swift.org/t/swift-concurrency-roadmap/41611",
+    "content": "A PR with this document can be found here Swift Concurrency Roadmap Our goal is to make concurrent programming in Swift convenient, efficient, and safe. This document outlines a number of proposed&hellip;"
+  },
+  {
+    "date": "2020-10-30T17:30:14.000Z",
+    "title": "Using Vuex 4 with Vue 3",
+    "url": "https://blog.logrocket.com/using-vuex-4-with-vue-3/",
+    "content": "Vuex 4 isn't terribly different from previous versions, but it is the only version compatible with Vue 3. See how to use them together."
+  },
+  {
+    "date": "2020-10-30T17:19:17.000Z",
+    "title": "KDE.org migrated to Hugo",
+    "url": "https://carlschwan.eu/2020/10/30/kde-org-hugo.html",
+    "content": "KDE.org now uses Hugo. Hugo is a fast and modern static site generator written in Go. It provides a few improvements over the old system that was using plain PHP. A large part of the work was done by&hellip;"
+  },
+  {
+    "date": "2020-10-30T17:14:09.000Z",
+    "title": "YC Startup School for future founders who aren't quite ready to start yet",
+    "url": "https://blog.ycombinator.com/startup-school-for-future-founders/",
+    "content": "We launched Startup School as an online program in 2017 to support founders actively working on building their companies. On November 9th, we’re also opening Startup School to potential founders who&hellip;"
+  },
+  {
+    "date": "2020-10-30T17:02:54.000Z",
+    "title": "Being a programmer... is pain",
+    "url": "https://dev.to/nocnica/being-a-programmer-is-pain-3ial",
+    "content": "The reality is that when you're trying to expand your skills, there will be times when you hit a wall. Trying to do something and being bad at it is painful, and it's human to withdraw from pain."
+  },
+  {
+    "date": "2020-10-30T17:01:58.000Z",
+    "title": "What was your win this week?",
+    "url": "https://dev.to/devteam/what-was-your-win-this-week-6id",
+    "content": "Got to all your meetings on time? Started a new project? Completed Hacktoberfest?"
+  },
+  {
+    "date": "2020-10-30T17:00:16.000Z",
+    "title": "Smarking (YC W15) Is Hiring an Implementation and Tech Partnership Manager",
+    "url": "https://jobs.lever.co/smarking/237fb34f-8fd1-431e-b631-1374fb73bfd6",
+    "content": "Hi there, we’re Smarking, and we’re digitizing the world’s parking inventory through our cutting-edge business intelligence and dynamic pricing technologies. We’re hiring a key Implementation and&hellip;"
+  },
+  {
+    "date": "2020-10-30T16:45:28.000Z",
+    "title": "A Deep Dive Into Linux Permissions",
+    "url": "https://medium.com/better-programming/a-deep-dive-into-linux-permissions-6e5a5a640160?source=rss----d0b105d10f0a---4",
+    "content": "Learn about the Linux permission model and how it affects your system’s security"
+  },
+  {
+    "date": "2020-10-30T16:36:05.000Z",
+    "title": "Application Load Balancers enables gRPC workloads with end to end HTTP/2 support",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2020/10/application-load-balancers-enable-grpc-workloads-end-to-end-http-2-support/",
+    "content": "Application Load Balancer (ALB) now supports gRPC protocol. With this release, you can use ALB to route and load balance your gRPC traffic between microservices or between gRPC enabled clients and&hellip;"
+  },
+  {
+    "date": "2020-10-30T16:28:37.000Z",
+    "title": "Deploy Interactive Real-Time Data Visualizations on Flask With Bokeh",
+    "url": "https://medium.com/better-programming/deploy-interactive-real-time-data-visualizations-on-flask-with-bokeh-311239273838?source=rss----d0b105d10f0a---4",
+    "content": "Better data visualizations"
+  },
+  {
+    "date": "2020-10-30T16:19:50.000Z",
+    "title": "5 Common Teamwork Behavioral Interview Questions and How to Approach Them",
+    "url": "https://medium.com/better-programming/5-common-teamwork-behavioral-interview-questions-and-how-to-approach-them-a05b79c447b0?source=rss----d0b105d10f0a---4",
+    "content": "Because there’s no “I” in “team”"
+  },
+  {
+    "date": "2020-10-30T16:15:56.000Z",
+    "title": "Mendoza: Use stack machines to compute efficient JSON diffs",
+    "url": "https://www.sanity.io/blog/mendoza",
+    "content": "Mendoza is a new, super efficient format for expressing differences between JSON documents."
+  },
+  {
+    "date": "2020-10-30T16:07:28.000Z",
+    "title": "Goodbye IFTTT",
+    "url": "https://benjamincongdon.me/blog/2020/10/30/Goodbye-IFTTT/",
+    "content": "On switching off of IFTTT to self-hosted and on-device automation tools"
+  },
+  {
+    "date": "2020-10-30T16:03:37.000Z",
+    "title": "Finding Bad Commits Using Git Bisect",
+    "url": "https://medium.com/better-programming/finding-bad-commits-using-git-bisect-c6f09a964149?source=rss----d0b105d10f0a---4",
+    "content": "Figure out which commit introduced that new bug"
+  },
+  {
+    "date": "2020-10-30T16:00:57.000Z",
+    "title": "CSS Reference Guide: padding",
+    "url": "https://blog.logrocket.com/css-reference-guide-padding/",
+    "content": "The CSS padding shorthand property is used to create space within an element. It defines the content portion of the box model."
+  },
+  {
+    "date": "2020-10-30T16:00:53.000Z",
+    "title": "CSS Reference Guide: text-decoration",
+    "url": "https://blog.logrocket.com/css-reference-guide-text-decoration/",
+    "content": "The CSS text-decoration shorthand property is made up of four component properties that allow you to add and style decorative lines on text."
+  },
+  {
+    "date": "2020-10-30T16:00:50.000Z",
+    "title": "CSS Reference Guide: background",
+    "url": "https://blog.logrocket.com/css-reference-guide-background/",
+    "content": "The CSS background shorthand property sets an element's background effects. It controls what paints underneath the content of an element."
+  },
+  {
+    "date": "2020-10-30T16:00:47.000Z",
+    "title": "How and why to use JavaScript media queries",
+    "url": "https://blog.logrocket.com/introduction-to-js-media-queries/",
+    "content": "Learn to create media queries in JavaScript using matchMedia API to enable adaptive, responsive designs using callback functions."
+  },
+  {
+    "date": "2020-10-30T16:00:36.000Z",
+    "title": "CSS Reference Guide: position",
+    "url": "https://blog.logrocket.com/css-reference-guide-position/",
+    "content": "The CSS position property is used to specify, manipulate, or adjust the position of an element in the document."
+  },
+  {
+    "date": "2020-10-30T16:00:26.000Z",
+    "title": "CSS Reference Guide: outline",
+    "url": "https://blog.logrocket.com/css-reference-guide-outline/",
+    "content": "The CSS outline shorthand property is used to draw a line around the outside of an element to add greater emphasis."
+  },
+  {
+    "date": "2020-10-30T16:00:16.000Z",
+    "title": "CSS Reference Guide: margin",
+    "url": "https://blog.logrocket.com/css-reference-guide-margin/",
+    "content": "The CSS margin shorthand property is used to create space around an element outside of any defined borders."
+  },
+  {
+    "date": "2020-10-30T16:00:12.000Z",
+    "title": "CSS Reference Guide: vertical-align",
+    "url": "https://blog.logrocket.com/css-reference-guide-vertical-align/",
+    "content": "The CSS vertical-align property sets vertical alignment on inline elements, inline-block elements,and table-cell elements."
+  },
+  {
+    "date": "2020-10-30T16:00:10.000Z",
+    "title": "CSS Reference Guide: color",
+    "url": "https://blog.logrocket.com/css-reference-guide-color/",
+    "content": "The CSS color property sets the foreground color of a text element or text decorations. Learn more about its syntax and values."
+  },
+  {
+    "date": "2020-10-30T15:55:22.000Z",
+    "title": "NLP With Python: Build a Haiku Machine in 50 Lines Of Code",
+    "url": "https://medium.com/better-programming/nlp-with-python-build-a-haiku-machine-in-50-lines-of-code-6c7b6de959e3?source=rss----d0b105d10f0a---4",
+    "content": "A dive into natural language processing"
+  },
+  {
+    "date": "2020-10-30T15:39:25.000Z",
+    "title": "Visx: An Easy Solution to Visualizing Data in React",
+    "url": "https://medium.com/better-programming/visx-an-easy-solution-to-visualizing-data-in-react-e94c67b7025b?source=rss----d0b105d10f0a---4",
+    "content": "A new open source project from Airbnb"
+  },
+  {
+    "date": "2020-10-30T15:38:45.000Z",
+    "title": "“You shouldn’t be too surprised if you end up finding Frosty the Snowman tucked behind Amazon…",
+    "url": "https://marker.medium.com/you-shouldnt-be-too-surprised-if-you-end-up-finding-frosty-the-snowman-tucked-behind-amazon-59fcdd52873c?source=rss----7b6769f2748b---4",
+    "content": "Good grief: For the first time since initially airing in 1965, the Charlie Brown holiday specials have been pulled from network TV…"
+  },
+  {
+    "date": "2020-10-30T15:30:38.000Z",
+    "title": "I spent 48 Hours coding in Nova and forgot about VS Code",
+    "url": "https://dev.to/steveblue/i-spent-48-hours-with-nova-and-forgot-all-about-vs-code-15lf",
+    "content": "I spent 48 hours with Nova, a new native IDE for MacOS released by Panic on September 14th. Two day..."
+  },
+  {
+    "date": "2020-10-30T15:14:54.000Z",
+    "title": "Serverless Myths",
+    "url": "https://dev.to/fllstck/serverless-myths-56dc",
+    "content": "Things people believe about serverless"
+  },
+  {
+    "date": "2020-10-30T15:09:55.000Z",
+    "title": "UX/UI: How Important Is It for Developers?",
+    "url": "https://dev.to/dailydotdev/ux-ui-how-important-is-it-for-developers-j3k",
+    "content": "Since last year, I’ve been working with many software development teams and building great products...."
+  },
+  {
+    "date": "2020-10-30T15:09:31.000Z",
+    "title": "Pattern Recognition With Machine Learning",
+    "url": "https://medium.com/better-programming/pattern-recognition-with-machine-learning-49de621426b6?source=rss----d0b105d10f0a---4",
+    "content": "How do computers recognize patterns?"
+  },
+  {
+    "date": "2020-10-30T14:58:55.000Z",
+    "title": "From McDonald's to Google",
+    "url": "https://www.protocol.com/kelsey-hightower-google-cloud",
+    "content": "Kelsey Hightower defied the tech sector's diversity problems to become one of the industry's leading figures. Now he wants everyone's voice to be heard."
+  },
+  {
+    "date": "2020-10-30T14:53:30.000Z",
+    "title": "What Gen Z in Canada are saying about cybersecurity and privacy",
+    "url": "https://medium.com/rogers-cybersecure-catalyst/what-gen-z-in-canada-are-saying-about-cybersecurity-and-privacy-d6f1e822f956?source=rss-------8-----------------cybersecurity",
+    "content": "By Emma Buchanan"
+  },
+  {
+    "date": "2020-10-30T14:49:46.000Z",
+    "title": "Launch HN: Deepnote (YC S19) – A better data science notebook",
+    "url": "https://news.ycombinator.com/item?id=24942797",
+    "content": "Hello HN,I'm Jakub and I'm the founder of Deepnote (https://deepnote.com/). We're building a better data science notebook.As an engineer, I spent most of my time working on developer tools, building&hellip;"
+  },
+  {
+    "date": "2020-10-30T14:38:31.000Z",
+    "title": "Edsger Dijkstra – The Man Who Carried Computer Science on His Shoulders",
+    "url": "https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders",
+    "content": "Little known outside his field, Edsger Wybe Dijkstra was a highly influential and often controversial figure in the history of computer science. Krzysztof Apt writes a tribute to his colleague, a&hellip;"
+  },
+  {
+    "date": "2020-10-30T14:35:13.000Z",
+    "title": "Why McDonald’s Success Sets Off Economic Alarm Bells",
+    "url": "https://marker.medium.com/why-mcdonalds-success-sets-off-economic-alarm-bells-6ec8ecf247?source=rss----7b6769f2748b---4",
+    "content": "Restaurants are pivoting to drive-thrus—but it’s a foreboding economic indicator"
+  },
+  {
+    "date": "2020-10-30T14:00:00.000Z",
+    "title": "Dark Web Hackers Say They Hold Keys to 10,000 Robinhood Accounts",
+    "url": "https://medium.com/bloomberg/dark-web-hackers-say-they-hold-keys-to-10-000-robinhood-accounts-1d104b9a72cf?source=rss-------8-----------------cybersecurity",
+    "content": "By Sophie Alexander and Kartikay Mehrotra"
+  },
+  {
+    "date": "2020-10-30T13:57:12.000Z",
+    "title": "Boo! Pure CSS Halloween card 🎃",
+    "url": "https://dev.to/nastassiadanilova/boo-pure-css-240p",
+    "content": "It's Halloween eve now and here's my pure HTML&CSS card on GitHub profile README.md H..."
+  },
+  {
+    "date": "2020-10-30T13:30:22.000Z",
+    "title": "Google rank tracker | Track your pages rank progress in Google search results",
+    "url": "https://itnext.io/google-rank-tracker-track-your-pages-rank-progress-in-google-search-results-95ac9f064b4a?source=rss----5b301f10ddcd---4",
+    "content": "Are you an SEO specialist? Do you want to track your pages rank in Google search results? If yes this article is for you."
+  },
+  {
+    "date": "2020-10-30T13:27:02.000Z",
+    "title": "October 30th, 2020: What did you learn this week?",
+    "url": "https://dev.to/nickytonline/october-30th-2020-what-did-you-learn-this-week-35ga",
+    "content": "It's that time of the week again. So wonderful devs, what did you learn this week? It could be progra..."
+  },
+  {
+    "date": "2020-10-30T13:10:16.000Z",
+    "title": "The React Ecosystem",
+    "url": "https://dev.to/skaytech/the-react-ecosystem-1l05",
+    "content": "Introduction When I started learning React, there was a huge debate on whether React is a..."
+  },
+  {
+    "date": "2020-10-30T13:00:29.000Z",
+    "title": "5 alternatives to Frontity",
+    "url": "https://blog.logrocket.com/5-alternatives-to-frontity/",
+    "content": "In this guide, we'll show you how to use Frontity and introduce you to some alternative solutions for building WordPress sites with React."
+  },
+  {
+    "date": "2020-10-30T12:59:20.000Z",
+    "title": "Marker’s Weekend Reads: Election Betting Markets, Halloween While Black, Reviewing Stratechery",
+    "url": "https://marker.medium.com/markers-weekend-reads-election-betting-markets-halloween-while-black-reviewing-stratechery-7557b6d53912?source=rss----7b6769f2748b---4",
+    "content": "Looking for a great read this weekend? Marker’s editorial team has compiled a list of some of the thought-provoking articles on Medium."
+  },
+  {
+    "date": "2020-10-30T12:54:25.000Z",
+    "title": "“If it’s not tested, it’s broken” – how we test infrastructure code",
+    "url": "https://dev.to/stellacrowhurst/if-it-s-not-tested-it-s-broken-how-we-test-infrastructure-code-80d",
+    "content": "Principles matter. For any group, of any size, principles bring clarity, they provide a sense of purp..."
+  },
+  {
+    "date": "2020-10-30T12:37:11.000Z",
+    "title": "Managing forms with React Hook Form",
+    "url": "https://levelup.gitconnected.com/managing-forms-with-react-hook-form-ae771dcf343d?source=rss----5517fd7b58a6---4",
+    "content": "Working with forms in React is notoriously difficult, particularly when there are dynamic fields involved. There exist a number of…"
+  },
+  {
+    "date": "2020-10-30T12:11:57.000Z",
+    "title": "Why McDonald’s success sets off economic alarm bells",
+    "url": "https://marker.medium.com/why-mcdonalds-success-sets-off-economic-alarm-bells-cd2b0ba0875?source=rss----7b6769f2748b---4",
+    "content": "Welcome to Buy/Sell/Hold, Marker’s weekly newsletter that’s 100% business intelligence and 0% investment advice. Each week, our writers…"
+  },
+  {
+    "date": "2020-10-30T12:10:06.000Z",
+    "title": "Function Declaration vs Function Expression - Javascript",
+    "url": "https://dev.to/kamalo__22/function-declaration-vs-function-expression-javascript-5bcd",
+    "content": "There are multiple ways to define a function in Javascript. Since there are only subtle differences b..."
+  },
+  {
+    "date": "2020-10-30T12:02:52.000Z",
+    "title": "A trip to templates world in Angular",
+    "url": "https://levelup.gitconnected.com/a-trip-to-templates-world-in-angular-b3d40b4f0d8a?source=rss----5517fd7b58a6---4",
+    "content": "What’s ng-template, ng-container, ngTemplateOutlet? + (Cheat-sheet in bonus)"
+  },
+  {
+    "date": "2020-10-30T12:01:35.000Z",
+    "title": "How to automate boring stuff with chrome extensions",
+    "url": "https://levelup.gitconnected.com/how-to-automate-boring-stuff-with-chrome-extensions-9d2dc268bb9a?source=rss----5517fd7b58a6---4",
+    "content": "Copy... Paste… Copy… Paste… Lost minutes, or even hours spent on comparing offers online. If only we could do something about it…"
+  },
+  {
+    "date": "2020-10-30T11:52:10.000Z",
+    "title": "Grab your user's attention with the :focus-within CSS selector",
+    "url": "https://dev.to/vtrpldn/grab-your-user-s-attention-with-the-focus-within-css-selector-4d4",
+    "content": "Here's a neat little trick: You can use the :focus-within selector to style the parent of a focused..."
+  },
+  {
+    "date": "2020-10-30T09:47:17.000Z",
+    "title": "Changing Faces: The Mistaken Portrait of Legendre (2009) [pdf]",
+    "url": "http://www.ams.org/notices/200911/rtx091101440p.pdf"
+  },
+  {
+    "date": "2020-10-30T09:45:45.000Z",
+    "title": "How to create minimal music with code in any programming language",
+    "url": "https://zserge.com/posts/etude-in-c/",
+    "content": "Making music with low-level C code, from a simple saw wave to playing melodies"
+  },
+  {
+    "date": "2020-10-30T09:35:02.000Z",
+    "title": "I’m deaf, and this is what happens when I get on a Zoom call",
+    "url": "https://www.fastcompany.com/90565930/im-deaf-and-this-is-what-happens-when-i-get-on-a-zoom-call"
+  },
+  {
+    "date": "2020-10-30T08:04:03.000Z",
+    "title": "The Black Hole Information Paradox Comes to an End",
+    "url": "https://www.quantamagazine.org/the-black-hole-information-paradox-comes-to-an-end-20201029/",
+    "content": "In a landmark series of calculations, physicists have proved that black holes can shed information — an apparent violation of Einstein’s theory of relativity."
+  },
+  {
+    "date": "2020-10-30T07:53:17.000Z",
+    "title": "How to store passwords and API keys in project code.",
+    "url": "https://itnext.io/how-to-store-passwords-and-api-keys-in-project-code-1eaf5cb235c9?source=rss----5b301f10ddcd---4",
+    "content": "Often your automation scripts will have secret credentials or API keys that you need to have in your app to function and you’d rather have…"
+  },
+  {
+    "date": "2020-10-30T07:43:18.000Z",
+    "title": "4 Great Portfolio Projects Ideas You Can Build Quickly",
+    "url": "https://medium.com/javascript-in-plain-english/4-great-portfolio-projects-ideas-you-can-build-quickly-3a22c13c0f1f?source=rss----4b3a1ed4f11c---4",
+    "content": "You can build all these projects within a week."
+  },
+  {
+    "date": "2020-10-30T07:37:06.000Z",
+    "title": "How I added a loading screen to my React Slack Clone",
+    "url": "https://medium.com/javascript-in-plain-english/how-i-added-a-loading-screen-to-my-react-slack-clone-a87a80c703aa?source=rss----4b3a1ed4f11c---4",
+    "content": "Over the weekend I decided to revisit a full-stack Slack Clone I had built. I wanted to add some new features to it like adding emojis to…"
+  },
+  {
+    "date": "2020-10-30T07:36:33.000Z",
+    "title": "Avoid The Pyramid Of Doom",
+    "url": "https://medium.com/javascript-in-plain-english/avoiding-the-pyramid-of-doom-f27176b9bb98?source=rss----4b3a1ed4f11c---4",
+    "content": "Because nested code is bad for mental health"
+  },
+  {
+    "date": "2020-10-30T05:32:04.000Z",
+    "title": "K-Pop’s Stock Market Mania, by the Numbers",
+    "url": "https://marker.medium.com/k-pops-stock-market-mania-by-the-numbers-8e87d7eafb3a?source=rss----7b6769f2748b---4",
+    "content": "The agency behind Korean boy band BTS went public in South Korea’s biggest IPO in three years"
+  },
+  {
+    "date": "2020-10-30T04:12:27.000Z",
+    "title": "Art After the Plague: How painters through the ages have responded to contagion",
+    "url": "https://theamericanscholar.org/art-after-the-plague/",
+    "content": "How painters through the ages have responded to contagion, pestilence, and deadly epidemics"
+  },
+  {
+    "date": "2020-10-30T03:34:22.000Z",
+    "title": "How to Calculate the Fibonacci Sequence in Logarithmic Time",
+    "url": "https://levelup.gitconnected.com/how-to-calculate-the-fibonacci-sequence-in-logarithmic-time-abde842f5a39?source=rss----5517fd7b58a6---4",
+    "content": "The naïve solution is exponential and most people can solve it in constant time. But can we do better?"
+  },
+  {
+    "date": "2020-10-30T03:34:15.000Z",
+    "title": "EXoDOS: Collecting every game developed for DOS from original media",
+    "url": "http://exodos.the-eye.us/",
+    "content": "eXoDOS is an attempt to catalog, obtain, and make playable every game developed for the DOS and PC Booter platform. Striving to find original media rather than using scene rips. This collection uses a&hellip;"
+  },
+  {
+    "date": "2020-10-30T00:49:19.000Z",
+    "title": "Why Are We Living in a Golden Age of Historical Fiction? (2019)",
+    "url": "https://www.nytimes.com/2019/05/07/t-magazine/historical-fiction-books.html"
+  },
+  {
+    "date": "2020-10-29T23:06:23.000Z",
+    "title": "The invisible struggle of the Asian American small-business owner",
+    "url": "https://www.vox.com/21536943/asian-american-restuarant-racism-coronavirus",
+    "content": "Asian American businesses are besieged by racism that leaves them open to attacks and by economic stereotypes that render them forgotten."
+  },
+  {
+    "date": "2020-10-29T22:49:04.000Z",
+    "title": "Analysis of a noname GPS tracker",
+    "url": "https://medium.com/@dmesko/analysis-of-a-noname-gps-tracker-8e117bc96591?source=rss-------8-----------------cybersecurity",
+    "content": "As I’ve cancelled theft insurance of my bike, I’m looking for an alternatives."
+  },
+  {
+    "date": "2020-10-29T22:15:50.000Z",
+    "title": "Designing Restful APIs using an API-First Approach",
+    "url": "https://itnext.io/restful-using-api-first-cd305e59305d?source=rss----5b301f10ddcd---4",
+    "content": "I’ve been working with RESTFul APIs for some time now and one thing that I love to do is to talk about APIs."
+  },
+  {
+    "date": "2020-10-29T20:20:52.000Z",
+    "title": "NPM Clients That Are Better Than The Original",
+    "url": "https://blog.bitsrc.io/npm-clients-that-are-better-than-the-original-cd54ed0f5fe7?source=rss----5c2fdf847f4a---4",
+    "content": "For all of its pros, npm has several flaws. These 3 alternatives try to improve upon them and offer alternatives to Node developers."
+  },
+  {
+    "date": "2020-10-29T20:20:31.000Z",
+    "title": "Using Headless CMS for Your Web App Backend",
+    "url": "https://blog.bitsrc.io/using-headless-cms-for-your-web-app-backend-50bbc344adce?source=rss----5c2fdf847f4a---4",
+    "content": "How to use a Headless CMS as your Web App backend."
+  },
+  {
+    "date": "2020-10-29T20:18:55.000Z",
+    "title": "Building and Monitoring Your First Github Actions Workflow",
+    "url": "https://blog.bitsrc.io/building-and-monitoring-your-first-github-actions-workflow-b9cad4a1014d?source=rss----5c2fdf847f4a---4",
+    "content": "Github Actions is Github’s native solution to CI/CD, which is available to the developer’s community since it was launched in 2019…"
+  },
+  {
+    "date": "2020-10-29T19:40:41.000Z",
+    "title": "Show HN: What would mechanical programming look like?",
+    "url": "https://mockmechanics.com/",
+    "content": "Mock Mechanics is a program that lets you create interactive machines in a very intuitive way, even programming these machines is mostly a question of connecting things visually in a logical way. Tree&hellip;"
+  },
+  {
+    "date": "2020-10-29T17:51:15.000Z",
+    "title": "Announcing LogRocket Issue Management",
+    "url": "https://blog.logrocket.com/announcing-logrocket-issue-management/",
+    "content": "Introducing Issue Management: the newest feature from LogRocket, offering an easy-to-read dashboard visualizing your app's health."
+  },
+  {
+    "date": "2020-10-29T17:50:43.000Z",
+    "title": "They say everyone deserves a second chance, but Noa Santos may be pressing his luck.",
+    "url": "https://marker.medium.com/they-say-everyone-deserves-a-second-chance-but-noa-santos-may-be-pressing-his-luck-c7ccfb5dd4a5?source=rss----7b6769f2748b---4",
+    "content": "The Homepolish founder is back with another interior design startup that resembles his last"
+  },
+  {
+    "date": "2020-10-29T12:37:54.000Z",
+    "title": "Processing Engines for Big Data",
+    "url": "https://itnext.io/processing-engines-for-big-data-5827bfad6b02?source=rss----5b301f10ddcd---4",
+    "content": "Comparison of processing engines for big data: Spark, Flink, Storm…"
+  },
+  {
+    "date": "2020-10-29T11:13:09.000Z",
+    "title": "Kubernetes Secret and Configmap sync",
+    "url": "https://itnext.io/kubernetes-secret-and-configmap-sync-6c6b9f906b0d?source=rss----5b301f10ddcd---4",
+    "content": "Today I want to talk about why I wrote kubernetes secret sync operator and how did I Code it."
+  },
+  {
+    "date": "2020-10-29T10:43:00.000Z",
+    "title": "CASL. Pursuing Perfection I: Why?",
+    "url": "https://medium.com/dailyjs/casl-pursuing-perfection-why-e4807bf9c847?source=rss----f5105b08f43a---4",
+    "content": "This is the first part in the series of articles where I plan to share my experience building and optimizing CASL v5."
+  },
+  {
     "date": "2020-10-29T05:48:34.000Z",
     "title": "Image Scaling Attacks",
     "url": "https://embracethered.com/blog/posts/2020/husky-ai-image-rescaling-attacks/",
@@ -636,14 +1293,14 @@
   },
   {
     "date": "2020-10-28T02:52:30.000Z",
-    "title": "Anonymous Authentication: How to secure public APIs",
-    "url": "https://medium.com/@mukundkrishnan/anonymous-authentication-how-to-secure-public-apis-8f295f23dff2?source=rss-------8-----------------cybersecurity",
+    "title": "Anonymous Authentication: How to Secure Public APIs",
+    "url": "https://medium.com/swlh/anonymous-authentication-how-to-secure-public-apis-8f295f23dff2?source=rss-------8-----------------cybersecurity",
     "content": "In case of attack, break the glass and pull cables!"
   },
   {
     "date": "2020-10-28T02:52:30.000Z",
-    "title": "Anonymous Authentication: How to Secure Public APIs",
-    "url": "https://medium.com/swlh/anonymous-authentication-how-to-secure-public-apis-8f295f23dff2?source=rss-------8-----------------cybersecurity",
+    "title": "Anonymous Authentication: How to secure public APIs",
+    "url": "https://medium.com/@mukundkrishnan/anonymous-authentication-how-to-secure-public-apis-8f295f23dff2?source=rss-------8-----------------cybersecurity",
     "content": "In case of attack, break the glass and pull cables!"
   },
   {
@@ -857,7 +1514,7 @@
     "date": "2020-10-27T18:36:59.000Z",
     "title": "How to Automate Simple Tasks with Node.js ",
     "url": "https://www.freecodecamp.org/news/automate-simple-tasks-with-nodejs/",
-    "content": "Recently, I had to travel through several countries by car ?. There were a lot of tolls to pay? and a lot of gasoline⛽ to fill. Which meant a lot of bills. I collected the receipts? along the way. And&hellip;"
+    "content": "Recently, I had to travel through several countries by car 🚗. There were a lot of tolls to pay💰 and a lot of gasoline⛽ to fill. Which meant a lot of bills. I collected the receipts🧾 along the way.&hellip;"
   },
   {
     "date": "2020-10-27T18:34:06.000Z",
@@ -1078,7 +1735,8 @@
   {
     "date": "2020-10-27T13:15:18.000Z",
     "title": "OpenShift Service Mesh essentials — Part IV — Features: Routing",
-    "url": "https://itnext.io/openshift-service-mesh-essentials-part-iv-features-routing-3189dae64615?source=rss----5b301f10ddcd---4"
+    "url": "https://itnext.io/openshift-service-mesh-essentials-part-iv-features-routing-3189dae64615?source=rss----5b301f10ddcd---4",
+    "content": "See how using advanced routing you can modify the behavior of your application without including API gateways or writing code in your app."
   },
   {
     "date": "2020-10-27T13:14:44.000Z",
@@ -1102,6 +1760,12 @@
     "title": "Build a fully offline app using React Native and WatermelonDB",
     "url": "https://blog.logrocket.com/offline-app-react-native-watermelondb/",
     "content": "See how you can build a fully featured offline app using React Native for the frontend and WatermelonDB for data storage."
+  },
+  {
+    "date": "2020-10-27T12:11:40.000Z",
+    "title": "All about RSA Encryption Technique in Cryptography!",
+    "url": "https://medium.com/analytics-vidhya/all-about-rsa-encryption-technique-in-cryptography-fc896052fdae?source=rss-------8-----------------cybersecurity",
+    "content": "This blog aims to explain the very famous encryption technique i.e. RSA, by covering every related topic like asymmetric encryption, block…"
   },
   {
     "date": "2020-10-27T11:27:56.000Z",
@@ -1224,7 +1888,8 @@
   {
     "date": "2020-10-26T19:46:14.000Z",
     "title": "Dear Community: Here are our Guidelines for Debate",
-    "url": "https://blog.usejournal.com/dear-community-here-are-our-guidelines-for-debate-be968a81c91d?source=rss----7b837cf1fd73---4"
+    "url": "https://blog.usejournal.com/dear-community-here-are-our-guidelines-for-debate-be968a81c91d?source=rss----7b837cf1fd73---4",
+    "content": "Author’s note: I wrote this for the Renaissance Collective community as a guide for discussing contentious issues. A few member…"
   },
   {
     "date": "2020-10-26T19:44:24.000Z",
@@ -1235,7 +1900,8 @@
   {
     "date": "2020-10-26T19:43:54.000Z",
     "title": "A year in review: a first time manager",
-    "url": "https://blog.usejournal.com/a-year-in-review-a-first-time-manager-eec38e78a95f?source=rss----7b837cf1fd73---4"
+    "url": "https://blog.usejournal.com/a-year-in-review-a-first-time-manager-eec38e78a95f?source=rss----7b837cf1fd73---4",
+    "content": "One year ago, I hired my first team member and began a humbling journey of being a first time manager. Fast forward to now, and I am so…"
   },
   {
     "date": "2020-10-26T19:43:21.000Z",
@@ -1246,7 +1912,8 @@
   {
     "date": "2020-10-26T19:41:49.000Z",
     "title": "Live insight in to the JavaScript market — Infographic",
-    "url": "https://blog.usejournal.com/live-insight-in-to-the-javascript-market-infographic-4b33f786b47?source=rss----7b837cf1fd73---4"
+    "url": "https://blog.usejournal.com/live-insight-in-to-the-javascript-market-infographic-4b33f786b47?source=rss----7b837cf1fd73---4",
+    "content": "Front End Engineers’ current Salaries + Motivations"
   },
   {
     "date": "2020-10-26T19:40:57.000Z",
@@ -1313,6 +1980,12 @@
     "title": "Streaming video in Safari: Why is it so difficult?",
     "url": "https://blog.logrocket.com/streaming-video-in-safari/",
     "content": "Safari doesn't request video files in the same way as Chrome, which makes implementation a bit more tricky."
+  },
+  {
+    "date": "2020-10-26T14:18:58.000Z",
+    "title": "Best Open-Source JavaScript NPM Packages Available on Github",
+    "url": "https://medium.com/swlh/best-open-source-javascript-npm-packages-available-on-github-b84f433ef274?source=rss-------8-----------------javascript",
+    "content": "JAVASCRIPT NPM is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime…"
   },
   {
     "date": "2020-10-26T13:39:57.000Z",
@@ -1845,6 +2518,12 @@
     "title": "Binwalk: Firmware Analysis Tool",
     "url": "https://github.com/ReFirmLabs/binwalk",
     "content": "Firmware Analysis Tool. Contribute to ReFirmLabs/binwalk development by creating an account on GitHub."
+  },
+  {
+    "date": "2020-10-24T23:28:55.000Z",
+    "title": "Home Network Convenience & Security Options",
+    "url": "https://medium.com/swlh/home-network-convenience-security-options-d1a584c4fb36?source=rss-------8-----------------cybersecurity",
+    "content": "The preamble."
   },
   {
     "date": "2020-10-24T22:41:57.000Z",
@@ -4239,13 +4918,13 @@
   {
     "date": "2020-10-19T22:39:54.000Z",
     "title": "The Difference of “var” vs “let” vs “const” in Javascript",
-    "url": "https://medium.com/@meganslo/the-difference-of-var-vs-let-vs-const-in-javascript-abe37e214d66?source=rss-------8-----------------javascript",
+    "url": "https://medium.com/swlh/the-difference-of-var-vs-let-vs-const-in-javascript-abe37e214d66?source=rss-------8-----------------javascript",
     "content": "They are cool, yet they are different. I will be discussing these three variable declarations with examples of Sweater Season-Related."
   },
   {
     "date": "2020-10-19T22:39:54.000Z",
     "title": "The Difference of “var” vs “let” vs “const” in Javascript",
-    "url": "https://medium.com/swlh/the-difference-of-var-vs-let-vs-const-in-javascript-abe37e214d66?source=rss-------8-----------------javascript",
+    "url": "https://medium.com/@meganslo/the-difference-of-var-vs-let-vs-const-in-javascript-abe37e214d66?source=rss-------8-----------------javascript",
     "content": "They are cool, yet they are different. I will be discussing these three variable declarations with examples of Sweater Season-Related."
   },
   {
@@ -4584,14 +5263,14 @@
   },
   {
     "date": "2020-10-19T13:50:49.000Z",
-    "title": "Automation of Cyberattack Countermeasures using AI and Machine Learning",
-    "url": "https://medium.com/@sauravrana646/automation-of-cyberattack-countermeasures-using-ai-and-machine-learning-88efcde621f8?source=rss-------8-----------------cybersecurity",
+    "title": "Automation of Cyberattack Countermeasures Using AI and Machine Learning",
+    "url": "https://medium.com/swlh/automation-of-cyberattack-countermeasures-using-ai-and-machine-learning-88efcde621f8?source=rss-------8-----------------cybersecurity",
     "content": "Abstract"
   },
   {
     "date": "2020-10-19T13:50:49.000Z",
-    "title": "Automation of Cyberattack Countermeasures Using AI and Machine Learning",
-    "url": "https://medium.com/swlh/automation-of-cyberattack-countermeasures-using-ai-and-machine-learning-88efcde621f8?source=rss-------8-----------------cybersecurity",
+    "title": "Automation of Cyberattack Countermeasures using AI and Machine Learning",
+    "url": "https://medium.com/@sauravrana646/automation-of-cyberattack-countermeasures-using-ai-and-machine-learning-88efcde621f8?source=rss-------8-----------------cybersecurity",
     "content": "Abstract"
   },
   {
@@ -5012,14 +5691,14 @@
   },
   {
     "date": "2020-10-18T20:05:06.000Z",
-    "title": "Your cybersecurity starter pack",
-    "url": "https://medium.com/@victoriadotdev/your-cybersecurity-starter-pack-22b9b05cf216?source=rss-------8-----------------cybersecurity",
+    "title": "Your Cybersecurity Starter Pack",
+    "url": "https://medium.com/swlh/your-cybersecurity-starter-pack-22b9b05cf216?source=rss-------8-----------------cybersecurity",
     "content": "Basic security best practices to share with your non-technical friend."
   },
   {
     "date": "2020-10-18T20:05:06.000Z",
-    "title": "Your Cybersecurity Starter Pack",
-    "url": "https://medium.com/swlh/your-cybersecurity-starter-pack-22b9b05cf216?source=rss-------8-----------------cybersecurity",
+    "title": "Your cybersecurity starter pack",
+    "url": "https://medium.com/@victoriadotdev/your-cybersecurity-starter-pack-22b9b05cf216?source=rss-------8-----------------cybersecurity",
     "content": "Basic security best practices to share with your non-technical friend."
   },
   {
@@ -5909,25 +6588,25 @@
   {
     "date": "2020-10-16T15:54:46.000Z",
     "title": "Capability-Based Security and Macaroons",
-    "url": "https://medium.com/swlh/capability-based-security-and-macaroons-aaa64fb9fc01?source=rss-------8-----------------cybersecurity",
+    "url": "https://medium.com/@manningbooks/capability-based-security-and-macaroons-aaa64fb9fc01?source=rss-------8-----------------cybersecurity",
     "content": "From API Security in Action by Neil Madden"
   },
   {
     "date": "2020-10-16T15:54:46.000Z",
     "title": "Capability-Based Security and Macaroons",
-    "url": "https://medium.com/@manningbooks/capability-based-security-and-macaroons-aaa64fb9fc01?source=rss-------8-----------------cybersecurity",
+    "url": "https://medium.com/swlh/capability-based-security-and-macaroons-aaa64fb9fc01?source=rss-------8-----------------cybersecurity",
     "content": "From API Security in Action by Neil Madden"
   },
   {
     "date": "2020-10-16T15:43:42.000Z",
     "title": "Why Am I Getting So Many More Phishing Emails Recently?",
-    "url": "https://medium.com/@rosebak/why-am-i-getting-so-many-more-phishing-emails-recently-fc2d52db375b?source=rss-------8-----------------cybersecurity",
+    "url": "https://medium.com/swlh/why-am-i-getting-so-many-more-phishing-emails-recently-fc2d52db375b?source=rss-------8-----------------cybersecurity",
     "content": "How the non-stop barrage of scam emails catch some people off-guard."
   },
   {
     "date": "2020-10-16T15:43:42.000Z",
     "title": "Why Am I Getting So Many More Phishing Emails Recently?",
-    "url": "https://medium.com/swlh/why-am-i-getting-so-many-more-phishing-emails-recently-fc2d52db375b?source=rss-------8-----------------cybersecurity",
+    "url": "https://medium.com/@rosebak/why-am-i-getting-so-many-more-phishing-emails-recently-fc2d52db375b?source=rss-------8-----------------cybersecurity",
     "content": "How the non-stop barrage of scam emails catch some people off-guard."
   },
   {
@@ -6969,14 +7648,14 @@
   },
   {
     "date": "2020-10-14T23:20:32.000Z",
-    "title": "Attackalyzer: A Consumer-End DDoS Analysis Service",
-    "url": "https://medium.com/swlh/attackalyzer-a-consumer-end-ddos-analysis-service-dd4bf07a0409?source=rss-------8-----------------cybersecurity",
+    "title": "Attackalyzer: a consumer-end DDoS analysis service",
+    "url": "https://medium.com/@cpke/attackalyzer-a-consumer-end-ddos-analysis-service-dd4bf07a0409?source=rss-------8-----------------cybersecurity",
     "content": "Attackalyzer provides automated DDoS attack analysis for consumers"
   },
   {
     "date": "2020-10-14T23:20:32.000Z",
-    "title": "Attackalyzer: a consumer-end DDoS analysis service",
-    "url": "https://medium.com/@cpke/attackalyzer-a-consumer-end-ddos-analysis-service-dd4bf07a0409?source=rss-------8-----------------cybersecurity",
+    "title": "Attackalyzer: A Consumer-End DDoS Analysis Service",
+    "url": "https://medium.com/swlh/attackalyzer-a-consumer-end-ddos-analysis-service-dd4bf07a0409?source=rss-------8-----------------cybersecurity",
     "content": "Attackalyzer provides automated DDoS attack analysis for consumers"
   },
   {
@@ -7022,14 +7701,14 @@
   },
   {
     "date": "2020-10-14T21:37:11.000Z",
-    "title": "Adding Firebase Authentication in Gatsby with a little Typescript magic.",
-    "url": "https://medium.com/@john-grisham/adding-firebase-authentication-in-gatsby-with-a-little-typescript-magic-adf6ad1fbfb2?source=rss-------8-----------------javascript",
+    "title": "Adding Firebase Authentication in Gatsby With a Little Typescript Magic",
+    "url": "https://medium.com/swlh/adding-firebase-authentication-in-gatsby-with-a-little-typescript-magic-adf6ad1fbfb2?source=rss-------8-----------------javascript",
     "content": "Gatsby is a great framework for building and designing a website but what about authentication? Well That’s where firebase comes in."
   },
   {
     "date": "2020-10-14T21:37:11.000Z",
-    "title": "Adding Firebase Authentication in Gatsby With a Little Typescript Magic",
-    "url": "https://medium.com/swlh/adding-firebase-authentication-in-gatsby-with-a-little-typescript-magic-adf6ad1fbfb2?source=rss-------8-----------------javascript",
+    "title": "Adding Firebase Authentication in Gatsby with a little Typescript magic.",
+    "url": "https://medium.com/@john-grisham/adding-firebase-authentication-in-gatsby-with-a-little-typescript-magic-adf6ad1fbfb2?source=rss-------8-----------------javascript",
     "content": "Gatsby is a great framework for building and designing a website but what about authentication? Well That’s where firebase comes in."
   },
   {
@@ -7969,15 +8648,15 @@
   },
   {
     "date": "2020-10-13T05:31:09.000Z",
-    "title": "Why Tesla Fever Is the New Tulip Mania",
-    "url": "https://marker.medium.com/why-tesla-fever-is-the-new-tulip-mania-5bb077254832?source=rss----7b6769f2748b---4",
-    "content": "Elon Musk, Robinhood, and SPACs all seem to be inflating the next big bubble"
-  },
-  {
-    "date": "2020-10-13T05:31:09.000Z",
     "title": "Costco’s Inflation-Resistant Hot Dog, by the Numbers",
     "url": "https://marker.medium.com/costcos-inflation-resistant-hot-dog-by-the-numbers-a4393c6f5a7c?source=rss----7b6769f2748b---4",
     "content": "How the big-box giant has kept a price constant since the 1980s"
+  },
+  {
+    "date": "2020-10-13T05:31:09.000Z",
+    "title": "Why Tesla Fever Is the New Tulip Mania",
+    "url": "https://marker.medium.com/why-tesla-fever-is-the-new-tulip-mania-5bb077254832?source=rss----7b6769f2748b---4",
+    "content": "Elon Musk, Robinhood, and SPACs all seem to be inflating the next big bubble"
   },
   {
     "date": "2020-10-13T05:05:37.000Z",
@@ -8463,15 +9142,15 @@
   },
   {
     "date": "2020-10-12T05:32:56.000Z",
-    "title": "How Yeti Survived a Pandemic — and Private Equity",
-    "url": "https://marker.medium.com/how-yeti-survived-a-pandemic-and-private-equity-a77729f8c68d?source=rss----7b6769f2748b---4",
-    "content": "Inside our wacky economy where a company selling $300 coolers can cruise through a recession"
-  },
-  {
-    "date": "2020-10-12T05:32:56.000Z",
     "title": "Why Every Restaurant Is Morphing Into a Drive-Thru",
     "url": "https://marker.medium.com/why-every-restaurant-is-morphing-into-a-drive-thru-9df7204815bf?source=rss----7b6769f2748b---4",
     "content": "Thanks to the pandemic, restaurants from Starbucks to Shake Shack want to make it easier to pick up fast food from your car"
+  },
+  {
+    "date": "2020-10-12T05:32:56.000Z",
+    "title": "How Yeti Survived a Pandemic — and Private Equity",
+    "url": "https://marker.medium.com/how-yeti-survived-a-pandemic-and-private-equity-a77729f8c68d?source=rss----7b6769f2748b---4",
+    "content": "Inside our wacky economy where a company selling $300 coolers can cruise through a recession"
   },
   {
     "date": "2020-10-12T05:04:33.000Z",
@@ -8704,13 +9383,13 @@
   {
     "date": "2020-10-11T17:10:18.000Z",
     "title": "What’s ‘this’ in JavaScript!",
-    "url": "https://medium.com/@mahe7star/whats-this-in-javascript-870918e833b8?source=rss-------8-----------------javascript",
+    "url": "https://medium.com/swlh/whats-this-in-javascript-870918e833b8?source=rss-------8-----------------javascript",
     "content": "Let’s beat ‘this’ monster together."
   },
   {
     "date": "2020-10-11T17:10:18.000Z",
     "title": "What’s ‘this’ in JavaScript!",
-    "url": "https://medium.com/swlh/whats-this-in-javascript-870918e833b8?source=rss-------8-----------------javascript",
+    "url": "https://medium.com/@mahe7star/whats-this-in-javascript-870918e833b8?source=rss-------8-----------------javascript",
     "content": "Let’s beat ‘this’ monster together."
   },
   {
@@ -10597,12 +11276,6 @@
     "content": "Penetration testing is the method of abusing an organization’s network in order to figure out how to defend it better."
   },
   {
-    "date": "2020-10-07T21:00:38.000Z",
-    "title": "Smarking (YC W15) Is Hiring an Implementation and Technical Partnership Manager",
-    "url": "https://jobs.lever.co/smarking/237fb34f-8fd1-431e-b631-1374fb73bfd6",
-    "content": "Hi there, we’re Smarking, and we’re digitizing the world’s parking inventory through our cutting-edge business intelligence and dynamic pricing technologies. We’re hiring a key Implementation and&hellip;"
-  },
-  {
     "date": "2020-10-07T20:55:55.000Z",
     "title": "How to Deploy a Cython Package to PyPI",
     "url": "https://levelup.gitconnected.com/how-to-deploy-a-cython-package-to-pypi-8217a6581f09?source=rss----5517fd7b58a6---4"
@@ -11695,13 +12368,13 @@
   {
     "date": "2020-10-05T09:06:22.000Z",
     "title": "Lessons From The “First-Ever Deadly Hacker Attack” on a German Hospital",
-    "url": "https://medium.com/@fluchsfriction/lessons-from-the-first-deadly-hacker-attack-on-german-hospital-2977cb13916f?source=rss-------8-----------------cybersecurity",
+    "url": "https://medium.com/digital-diplomacy/lessons-from-the-first-deadly-hacker-attack-on-german-hospital-2977cb13916f?source=rss-------8-----------------cybersecurity",
     "content": "“Patch more!” falls short."
   },
   {
     "date": "2020-10-05T09:06:22.000Z",
     "title": "Lessons From The “First-Ever Deadly Hacker Attack” on a German Hospital",
-    "url": "https://medium.com/digital-diplomacy/lessons-from-the-first-deadly-hacker-attack-on-german-hospital-2977cb13916f?source=rss-------8-----------------cybersecurity",
+    "url": "https://medium.com/@fluchsfriction/lessons-from-the-first-deadly-hacker-attack-on-german-hospital-2977cb13916f?source=rss-------8-----------------cybersecurity",
     "content": "“Patch more!” falls short."
   },
   {
@@ -12652,14 +13325,14 @@
   },
   {
     "date": "2020-10-03T00:33:07.000Z",
-    "title": "EvadeMe",
-    "url": "https://medium.com/@chrisbasinger/evademe-5c2e59083b43?source=rss-------8-----------------cybersecurity",
+    "title": "EvadeMe — Android Library",
+    "url": "https://medium.com/swlh/evademe-5c2e59083b43?source=rss-------8-----------------cybersecurity",
     "content": "Android Heuristic Evasion"
   },
   {
     "date": "2020-10-03T00:33:07.000Z",
-    "title": "EvadeMe — Android Library",
-    "url": "https://medium.com/swlh/evademe-5c2e59083b43?source=rss-------8-----------------cybersecurity",
+    "title": "EvadeMe",
+    "url": "https://medium.com/@chrisbasinger/evademe-5c2e59083b43?source=rss-------8-----------------cybersecurity",
     "content": "Android Heuristic Evasion"
   },
   {
@@ -13072,14 +13745,14 @@
   },
   {
     "date": "2020-10-02T11:39:35.000Z",
-    "title": "My Journey With Passwords",
-    "url": "https://medium.com/swlh/my-journey-with-passwords-41cd312ba576?source=rss-------8-----------------cybersecurity",
+    "title": "My journey with passwords",
+    "url": "https://medium.com/@rakeshkonni/my-journey-with-passwords-41cd312ba576?source=rss-------8-----------------cybersecurity",
     "content": "Like most people, I used to save my passwords in the browser — both in firefox and chrome — earlier. And not all my passwords were there…"
   },
   {
     "date": "2020-10-02T11:39:35.000Z",
-    "title": "My journey with passwords",
-    "url": "https://medium.com/@rakeshkonni/my-journey-with-passwords-41cd312ba576?source=rss-------8-----------------cybersecurity",
+    "title": "My Journey With Passwords",
+    "url": "https://medium.com/swlh/my-journey-with-passwords-41cd312ba576?source=rss-------8-----------------cybersecurity",
     "content": "Like most people, I used to save my passwords in the browser — both in firefox and chrome — earlier. And not all my passwords were there…"
   },
   {
@@ -13703,1189 +14376,5 @@
     "title": "MobX 6",
     "url": "https://michel.codes/blogs/mobx6",
     "content": "Homepage of Michel Weststrate"
-  },
-  {
-    "date": "2020-10-01T05:37:48.000Z",
-    "title": "Three Reasons to Bet on Asana — and One Big Reason Not To",
-    "url": "https://marker.medium.com/three-reasons-to-bet-on-asana-and-one-big-reason-not-to-e0ae7178fe36?source=rss----7b6769f2748b---4",
-    "content": "The company, which went public yesterday, is growing fast during the pandemic. But so are its losses."
-  },
-  {
-    "date": "2020-10-01T05:31:55.000Z",
-    "title": "The Pivot to Face Masks, by the Numbers",
-    "url": "https://marker.medium.com/the-pivot-to-face-masks-by-the-numbers-47bbd260b7df?source=rss----7b6769f2748b---4",
-    "content": "There’s a boom now, but the bust can’t be far behind"
-  },
-  {
-    "date": "2020-10-01T04:57:15.000Z",
-    "title": "Car Seats as Contraception",
-    "url": "https://privpapers.ssrn.com/sol3/papers.cfm?abstract_id=3665046",
-    "content": "49 Pages Posted: 22 Sep 2020 Date Written: July 31, 2020 Since 1977, U.S. states have passed laws steadily raising the age for which a child must ride in a car safety seat. These laws significantly&hellip;"
-  },
-  {
-    "date": "2020-10-01T04:42:37.000Z",
-    "title": "C++ the Good Parts",
-    "url": "https://www.infoq.com/presentations/c-plus-plus-pros/?itm_source=presentations_about_CPlusPlus",
-    "content": "Jordan DeLong overviews the past, current and near future \"good parts\" of C++'s functional side through the colored lens of his biases."
-  },
-  {
-    "date": "2020-10-01T03:48:54.000Z",
-    "title": "10 Side Hustles to Make Extra Money As a Software Engineer",
-    "url": "https://medium.com/better-programming/10-side-hustles-to-make-extra-money-as-a-software-engineer-a290e66c7ce9?source=rss----d0b105d10f0a---4"
-  },
-  {
-    "date": "2020-10-01T03:17:39.000Z",
-    "title": "GitHub: Code scanning for security vulnerabilities now available",
-    "url": "https://github.blog/2020-09-30-code-scanning-is-now-available/",
-    "content": "Now available, code scanning is a developer-first, GitHub-native approach to easily find security vulnerabilities before they reach production."
-  },
-  {
-    "date": "2020-10-01T01:11:26.000Z",
-    "title": "Industrial Literacy",
-    "url": "https://rootsofprogress.org/industrial-literacy",
-    "content": "When you know these facts of history, you understand what “industrial civilization” is and why it is the benefactor of everyone who is lucky enough to live in it"
-  },
-  {
-    "date": "2020-10-01T01:07:00.000Z",
-    "title": "3270font: A Font for the Nostalgic",
-    "url": "https://github.com/rbanffy/3270font",
-    "content": "A 3270 font in a modern format. Contribute to rbanffy/3270font development by creating an account on GitHub."
-  },
-  {
-    "date": "2020-10-01T00:43:08.000Z",
-    "title": "Adding HTML Content Dynamically in Rails 6 Using jQuery",
-    "url": "https://medium.com/swlh/adding-comments-dynamically-in-rails-6-using-jquery-2d4304f38321?source=rss-------8-----------------javascript",
-    "content": "Creating, submitting, and appending content without refreshing the webpage"
-  },
-  {
-    "date": "2020-10-01T00:43:08.000Z",
-    "title": "Adding HTML content dynamically in Rails 6 using jQuery",
-    "url": "https://medium.com/@Gabrielhicks/adding-comments-dynamically-in-rails-6-using-jquery-2d4304f38321?source=rss-------8-----------------javascript",
-    "content": "Creating, submitting, and appending content without refreshing the webpage"
-  },
-  {
-    "date": "2020-10-01T00:37:54.000Z",
-    "title": "Time Complexity and Big O",
-    "url": "https://codeburst.io/time-complexity-big-o-f6694097253a?source=rss----61061eb0c96b---4",
-    "content": "Understand how runtime is affected by"
-  },
-  {
-    "date": "2020-10-01T00:36:47.000Z",
-    "title": "Solving Word Hunt in Python: The Trie",
-    "url": "https://codeburst.io/solving-word-hunt-in-python-the-trie-9acedc1f2637?source=rss----61061eb0c96b---4",
-    "content": "Data structure for word prediction and dictionary searching"
-  },
-  {
-    "date": "2020-10-01T00:16:48.000Z",
-    "title": "Why I Learned App Development with React Native",
-    "url": "https://codeburst.io/why-i-learned-app-development-with-react-native-b2ca7dec6d2d?source=rss----61061eb0c96b---4",
-    "content": "Dreaming Up My Journey"
-  },
-  {
-    "date": "2020-10-01T00:00:00.000Z",
-    "title": "A look at Deno 1.4's interesting parts",
-    "url": "https://denoweekly.com/issues/16",
-    "content": ""
-  },
-  {
-    "date": "2020-09-30T23:48:56.000Z",
-    "title": "An Elementary Introduction to Information Geometry [pdf]",
-    "url": "https://res.mdpi.com/d_attachment/entropy/entropy-22-01100/article_deploy/entropy-22-01100.pdf"
-  },
-  {
-    "date": "2020-09-30T23:44:02.000Z",
-    "title": "NodeJS Thread Pool Performance Limitations",
-    "url": "https://medium.com/@ochedid95/nodejs-thread-pool-performance-limitations-33e77811ff5b?source=rss-------8-----------------javascript",
-    "content": "Click on any online NodeJS tutorial, and the first thing you’ll see is the claim that “Node is single threaded”. I decided to write the…"
-  },
-  {
-    "date": "2020-09-30T22:21:03.000Z",
-    "title": "Goodbye Nginx, hello Caddy",
-    "url": "https://dev.to/hanna/goodbye-nginx-hello-caddy-3p1k"
-  },
-  {
-    "date": "2020-09-30T22:18:15.000Z",
-    "title": "Quino, creator of Mafalda comic character, dies aged 88",
-    "url": "https://www.bbc.com/news/world-latin-america-54362413",
-    "content": "Cartoonist Joaquín Salvador Lavado, better known as Quino, has died in his native Argentina."
-  },
-  {
-    "date": "2020-09-30T22:10:35.000Z",
-    "title": "Scooby Doo and the Ruby on Rails",
-    "url": "https://dev.to/jlonetree/scooby-doo-and-the-ruby-on-rails-1e4k"
-  },
-  {
-    "date": "2020-09-30T21:10:10.000Z",
-    "title": "DigitalOcean's Hacktoberfest Is Hurting Open Source",
-    "url": "https://blog.domenic.me/hacktoberfest/",
-    "content": "For the last couple of years, DigitalOcean has run Hacktoberfest, which purports to “support open source” by giving free t-shirts to people who send pull requests to open source repositories. In&hellip;"
-  },
-  {
-    "date": "2020-09-30T21:05:12.000Z",
-    "title": "Say Goodbye to Hold Music",
-    "url": "https://blog.google/products/pixel/hold-for-me/"
-  },
-  {
-    "date": "2020-09-30T21:00:15.000Z",
-    "title": "Gather (YC S19) Is Hiring",
-    "url": "https://www.teamgather.co/work-with-us?ref=HN",
-    "content": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team"
-  },
-  {
-    "date": "2020-09-30T20:55:08.000Z",
-    "title": "Practice your Svelte skills during Hacktoberfest 👩‍💻👨‍💻",
-    "url": "https://dev.to/sirixdb/learn-and-practice-your-svelte-skills-during-hacktoberfest-1amc"
-  },
-  {
-    "date": "2020-09-30T20:40:08.000Z",
-    "title": "Demystifying Computers: CPU (Central Processing Unit)",
-    "url": "https://dev.to/gmelodie/demystifying-computers-cpu-central-processing-unit-3m8g"
-  },
-  {
-    "date": "2020-09-30T20:28:50.000Z",
-    "title": "TypeScript to WebAssembly: The What, The How And The Why",
-    "url": "https://blog.bitsrc.io/typescript-to-webassembly-the-what-the-how-and-the-why-3916a2561d37?source=rss----5c2fdf847f4a---4",
-    "content": "Using AssemblyScript to write TypeScript that compiles to WASM."
-  },
-  {
-    "date": "2020-09-30T20:28:11.000Z",
-    "title": "Deno 1.4: The Interesting Parts",
-    "url": "https://blog.bitsrc.io/deno-1-4-the-interesting-parts-1460a6f75acf?source=rss----5c2fdf847f4a---4",
-    "content": "Deno 1.4 was released a few days ago with lots of changes, here are the actually interesting ones. Including some breaking ones that might…"
-  },
-  {
-    "date": "2020-09-30T20:25:17.000Z",
-    "title": "Enhance JavaScript Security with Content Security Policies",
-    "url": "https://blog.bitsrc.io/enhance-javascript-security-with-content-security-policies-5847e5def227?source=rss----5c2fdf847f4a---4",
-    "content": "How to tell the browser which JavaScript is allowed to run and which should be blocked?"
-  },
-  {
-    "date": "2020-09-30T20:22:16.000Z",
-    "title": "Why you don't use Gitlab ?",
-    "url": "https://dev.to/simerca/why-you-don-t-use-gitlab-430j"
-  },
-  {
-    "date": "2020-09-30T20:10:51.000Z",
-    "title": "Hands-On with VSCode & \"Dev Containers\"",
-    "url": "https://dev.to/mcastellin/hands-on-with-vscode-dev-containers-33bf"
-  },
-  {
-    "date": "2020-09-30T20:08:33.000Z",
-    "title": "Fossil",
-    "url": "https://www.fossil-scm.org/home/doc/trunk/www/index.wiki",
-    "content": "Fossil is a simple, high-reliability, distributed software configuration management system with these advanced features: Simple Networking - No custom protocols or TCP ports. Fossil uses ordinary HTTP&hellip;"
-  },
-  {
-    "date": "2020-09-30T20:05:39.000Z",
-    "title": "Create custom context menu in Angular",
-    "url": "https://medium.com/@barik.jyoti/create-custom-context-menu-in-angular-efeae0137e1a?source=rss-------8-----------------javascript",
-    "content": "A simple yet powerful context menu for angular applications"
-  },
-  {
-    "date": "2020-09-30T20:05:30.000Z",
-    "title": "How To Visualize Public Transport Using Kibana, Elasticserach, Logstash (Elastic Stack) and Kafka…",
-    "url": "https://itnext.io/how-to-visualize-public-transport-using-kibana-elasticserach-logstash-elastic-stack-and-kafka-eabc6975255a?source=rss----5b301f10ddcd---4",
-    "content": "Do you think about analyzing and visualizing geo data? Why not try Elasticsearch? The so-called. ELK (Elasticsearch + Logstash + Kibana)…"
-  },
-  {
-    "date": "2020-09-30T19:55:17.000Z",
-    "title": "Defer Reference Implementation for C",
-    "url": "https://gustedt.gitlabpages.inria.fr/defer/",
-    "content": "In the following code snippet we have one guarded block and three deferred statements. guard { void * const p = malloc(25); if (!p) break; defer free(p); void * const q = malloc(25); if (!q) break;&hellip;"
-  },
-  {
-    "date": "2020-09-30T19:53:19.000Z",
-    "title": "Kitty – the fast, featureful, GPU based terminal emulator",
-    "url": "https://sw.kovidgoyal.net/kitty/",
-    "content": "Offloads rendering to the GPU for lower system load and buttery smooth scrolling. Uses threaded rendering to minimize input latency. Supports all modern terminal features: graphics (images), unicode,&hellip;"
-  },
-  {
-    "date": "2020-09-30T19:35:49.000Z",
-    "title": "The Smaller, the Better: Reducing Android App Size",
-    "url": "https://medium.com/better-programming/the-smaller-the-better-reducing-android-app-size-3b063a40ded7?source=rss----d0b105d10f0a---4",
-    "content": "A smaller APK size can lead to more users and a better first user experience"
-  },
-  {
-    "date": "2020-09-30T19:35:32.000Z",
-    "title": "“I’m slightly embarrassed to admit I actually have subscriptions to not only a monthly wine box…",
-    "url": "https://marker.medium.com/im-slightly-embarrassed-to-admit-i-actually-have-subscriptions-to-not-only-a-monthly-wine-box-21ce02c382e0?source=rss----7b6769f2748b---4",
-    "content": "In the past six months, we’ve seen all manner of companies offering monthly subscriptions — from coffee to cars — and now we can add…"
-  },
-  {
-    "date": "2020-09-30T19:17:53.000Z",
-    "title": "Google TV",
-    "url": "https://tv.google/",
-    "content": "Some features and devices may not be available in all countries. Subject to availability. Some features and availability may vary by OEM and/or device manufacturer. Some apps and/or content may not be&hellip;"
-  },
-  {
-    "date": "2020-09-30T19:17:24.000Z",
-    "title": "Golden raises $14.5M Series A led by a16z and Marc Andreessen joins board",
-    "url": "https://golden.com/blog/golden-raises-14-5m-series-a-led-by-a16z/",
-    "content": "Since we formally launched in 2019, our team has been hard at work executing our vision to build an extensive database and graph of knowledge for humanity, including practical commercial tools and&hellip;"
-  },
-  {
-    "date": "2020-09-30T19:05:37.000Z",
-    "title": "Create a Simple Autocomplete With Elasticsearch",
-    "url": "https://medium.com/better-programming/create-a-simple-autocomplete-with-elasticsearch-852c47109deb?source=rss----d0b105d10f0a---4",
-    "content": "How to create a simple autocomplete with Elasticsearch using text field data type and standard analyzer"
-  },
-  {
-    "date": "2020-09-30T19:00:57.000Z",
-    "title": "CSS Reference Guide: calc()",
-    "url": "https://blog.logrocket.com/css-reference-guide-calc/",
-    "content": "The CSS calc() function is used to evaluate simple arithmetic expressions in CSS, which comes in handy quite often during development."
-  },
-  {
-    "date": "2020-09-30T19:00:51.000Z",
-    "title": "CSS Reference Guide: flex",
-    "url": "https://blog.logrocket.com/css-reference-guide-flex/",
-    "content": "The CSS flex property is a shorthand for setting how flexible items will grow or shrink to fill their parent container."
-  },
-  {
-    "date": "2020-09-30T19:00:43.000Z",
-    "title": "CSS Reference Guide: border",
-    "url": "https://blog.logrocket.com/css-reference-guide-border/",
-    "content": "The CSS border shorthand property allows you to set the border style, color, and width of an element's border."
-  },
-  {
-    "date": "2020-09-30T19:00:41.000Z",
-    "title": "CSS Reference Guide: CSS :hover selector",
-    "url": "https://blog.logrocket.com/css-reference-guide-hover-selector/",
-    "content": "The CSS :hover selector is a pseudo-class selector used to apply styles to an element when the mouse is moved over the element."
-  },
-  {
-    "date": "2020-09-30T19:00:30.000Z",
-    "title": "CSS Reference Guide: Transitions",
-    "url": "https://blog.logrocket.com/css-reference-guide-transitions/",
-    "content": "CSS transitions allow us to gradually change a CSS property from its original value to a new value over a period of time."
-  },
-  {
-    "date": "2020-09-30T19:00:18.000Z",
-    "title": "CSS Reference Guide: Button styling",
-    "url": "https://blog.logrocket.com/css-reference-guide-button-styling/",
-    "content": "Learn how to create and style button classes using CSS, including a detailed look at style properties and animated effects."
-  },
-  {
-    "date": "2020-09-30T19:00:17.000Z",
-    "title": "CSS Reference Guide: overflow",
-    "url": "https://blog.logrocket.com/css-reference-guide-overflow/",
-    "content": "The CSS overflow property specifies the way an element's content overflows or grows out of its parent container."
-  },
-  {
-    "date": "2020-09-30T19:00:08.000Z",
-    "title": "CSS Reference Guide: Attribute selectors",
-    "url": "https://blog.logrocket.com/css-reference-guide-attribute-selectors/",
-    "content": "LogRocket's guide to the various CSS attribute selectors to facilitate quick styling of DOM elements."
-  },
-  {
-    "date": "2020-09-30T18:58:45.000Z",
-    "title": "3 Project that I made during my #100DaysOfCode Challenge",
-    "url": "https://dev.to/ariannargesi/3-project-that-i-made-during-my-100daysofcode-challenge-fh5",
-    "content": "I was a freelance web developer for more than 1 year. During that time I work on multiple WordPress|..."
-  },
-  {
-    "date": "2020-09-30T18:46:47.000Z",
-    "title": "Functional Programming With Java: Map, Filter, and Reduce",
-    "url": "https://medium.com/better-programming/functional-programming-with-java-map-filter-and-reduce-d0df1092d6ee?source=rss----d0b105d10f0a---4",
-    "content": "The most commonly used Stream operations"
-  },
-  {
-    "date": "2020-09-30T18:43:36.000Z",
-    "title": "Energy Efficiency across Programming Languages [pdf]",
-    "url": "https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf"
-  },
-  {
-    "date": "2020-09-30T18:35:42.000Z",
-    "title": "How to display code coverage of a Vue project in Gitlab",
-    "url": "https://medium.com/javascript-in-plain-english/how-to-display-code-coverage-of-a-vue-project-in-gitlab-9d1510a3e794?source=rss----4b3a1ed4f11c---4",
-    "content": "One might think that this should be pretty straight forward but there are some hoops you need to jump in order to get it to work."
-  },
-  {
-    "date": "2020-09-30T18:34:29.000Z",
-    "title": "Build a Simple Referral System With Node.js and MySQL",
-    "url": "https://medium.com/javascript-in-plain-english/build-a-simple-referral-system-with-nodejs-and-mysql-3164de2e7818?source=rss----4b3a1ed4f11c---4",
-    "content": "Get more signups on your next project with a referral program"
-  },
-  {
-    "date": "2020-09-30T18:32:52.000Z",
-    "title": "Best Features of ES2018 — Regex",
-    "url": "https://medium.com/javascript-in-plain-english/best-features-of-es2018-regex-b04f98dd4bed?source=rss----4b3a1ed4f11c---4",
-    "content": "Named capture groups is a great feature."
-  },
-  {
-    "date": "2020-09-30T18:32:49.000Z",
-    "title": "Maintainable JavaScript — Handling Errors",
-    "url": "https://medium.com/javascript-in-plain-english/maintainable-javascript-handling-errors-752a1f943d2d?source=rss----4b3a1ed4f11c---4",
-    "content": "When to throw errors and how to handle them."
-  },
-  {
-    "date": "2020-09-30T18:32:19.000Z",
-    "title": "5 ways to remove items from an Array in JavaScript",
-    "url": "https://medium.com/javascript-in-plain-english/5-ways-to-remove-items-from-array-in-javascript-bc9a0118dadf?source=rss----4b3a1ed4f11c---4",
-    "content": "There are various ways to remove an item from array. We will make use of pop, shift, splice, delete and length to remove items from array…"
-  },
-  {
-    "date": "2020-09-30T18:31:52.000Z",
-    "title": "10 High Frequency Terminal Commands",
-    "url": "https://medium.com/javascript-in-plain-english/10-high-frequency-terminal-commands-11fc3d2b543?source=rss----4b3a1ed4f11c---4",
-    "content": "Must to know Terminal Command that developers should know!"
-  },
-  {
-    "date": "2020-09-30T17:55:45.000Z",
-    "title": "5 Mistakes That Engineering Managers Make",
-    "url": "https://medium.com/better-programming/5-mistakes-that-engineering-managers-make-75aecf42525c?source=rss----d0b105d10f0a---4",
-    "content": "Avoid negative impacts on your teams"
-  },
-  {
-    "date": "2020-09-30T17:50:53.000Z",
-    "title": "Why is Snowflake so Valuable?",
-    "url": "https://www.freshpaint.io/blog/why-is-snowflake-so-valuable",
-    "content": "An overview of some of the reasons Snowflake is trading at 150x its revenue."
-  },
-  {
-    "date": "2020-09-30T17:48:19.000Z",
-    "title": "Linux under WSL2 can be leaking",
-    "url": "https://mullvad.net/en/blog/2020/9/30/linux-under-wsl2-can-be-leaking/",
-    "content": "We have found that you could be leaking your Internet traffic when running Linux under WSL2 (Windows Subsystem for Linux 2)."
-  },
-  {
-    "date": "2020-09-30T17:43:28.000Z",
-    "title": "DevDiscuss S2E7: Serverless and the Cloud 101",
-    "url": "https://dev.to/devteam/devdiscuss-s2e7-serverless-and-the-cloud-101-5pd"
-  },
-  {
-    "date": "2020-09-30T17:34:27.000Z",
-    "title": "A Checklist for First-Time Mobile App Developers",
-    "url": "https://medium.com/better-programming/a-checklist-for-first-time-mobile-app-developers-daa5c964e63f?source=rss----d0b105d10f0a---4",
-    "content": "3 tips to maximize your chances of getting your app approved on Google Play and Apple’s App Store Connect"
-  },
-  {
-    "date": "2020-09-30T17:24:50.000Z",
-    "title": "These 5 Rules Will Help Your Next Coding Side Project Be a Success",
-    "url": "https://medium.com/better-programming/these-5-rules-will-help-your-next-coding-side-project-be-a-success-d5e7320b5c5e?source=rss----d0b105d10f0a---4",
-    "content": "By critically analysing your past failures, you can find the keys to future success"
-  },
-  {
-    "date": "2020-09-30T17:13:45.000Z",
-    "title": "ExamSoft's remote bar exam sparks privacy and facial recognition concerns",
-    "url": "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/",
-    "content": "To administer bar exams in 20 different states next week, ExamSoft is using facial recognition and collecting the biometric data of legal professionals."
-  },
-  {
-    "date": "2020-09-30T17:00:00.000Z",
-    "title": "Ransomware Attacks Take On New Urgency Ahead of Vote",
-    "url": "https://medium.com/the-new-york-times/ransomware-attacks-take-on-new-urgency-ahead-of-vote-6c8734271c49?source=rss-------8-----------------cybersecurity",
-    "content": "Attacks against small towns, big cities and the contractors who run their voting systems have federal officials fearing that hackers will…"
-  },
-  {
-    "date": "2020-09-30T16:57:09.000Z",
-    "title": "Windows XP leak confirmed after user compiles the leaked code into a working OS",
-    "url": "https://www.zdnet.com/article/windows-xp-leak-confirmed-after-user-compiles-the-leaked-code-into-a-working-os/"
-  },
-  {
-    "date": "2020-09-30T16:44:19.000Z",
-    "title": "Native vs. Hybrid vs. Web App",
-    "url": "https://medium.com/better-programming/native-vs-hybrid-vs-web-app-f95c054a3c02?source=rss----d0b105d10f0a---4",
-    "content": "Which is the best choice for your business and why?"
-  },
-  {
-    "date": "2020-09-30T16:31:03.000Z",
-    "title": "Developers Try Again to Upstream Motorola 68000 Series Support in LLVM",
-    "url": "https://www.phoronix.com/scan.php?page=news_item&px=LLVM-Motorola-6800-Series-2020",
-    "content": "Hobbyist developers are trying once again to get a Motorola 68000 back-end merged into the upstream LLVM compiler. Yes, the M68k processors that are some 30+ years old. The Motorola 68000 series&hellip;"
-  },
-  {
-    "date": "2020-09-30T16:30:39.000Z",
-    "title": "Launch HN: Narrator (YC S19) – a data modeling platform built on a single table",
-    "url": "https://news.ycombinator.com/item?id=24640540",
-    "content": "Hi HN, We’re Ahmed, Cedric, Matt, and Mike from Narrator (https://www.narrator.ai).We’ve built a data platform that transforms all data in a data warehouse into a single 11-column data model and&hellip;"
-  },
-  {
-    "date": "2020-09-30T16:24:57.000Z",
-    "title": "If ENIAC Engineers Could Pair Program, So Can You",
-    "url": "https://medium.com/better-programming/if-eniac-engineers-could-pair-program-so-can-you-62a26e074be9?source=rss----d0b105d10f0a---4",
-    "content": "Pair programming practices that actually work"
-  },
-  {
-    "date": "2020-09-30T16:00:05.000Z",
-    "title": "Does my bundle look big in this?",
-    "url": "https://blog.logrocket.com/does-my-bundle-look-big-in-this/",
-    "content": "The world is turning to ESM modules slowly but surely. Whatever the bundler, it is making more and more sense to move away from CommonJS."
-  },
-  {
-    "date": "2020-09-30T15:59:51.000Z",
-    "title": "The 5 Benefits of Having an Extended Development Team",
-    "url": "https://medium.com/better-programming/the-5-benefits-of-having-an-extended-development-team-f5960a9a0fa0?source=rss----d0b105d10f0a---4",
-    "content": "What if you had another set of developers to keep writing code at the end of your workday?"
-  },
-  {
-    "date": "2020-09-30T15:59:36.000Z",
-    "title": "The Failed Promise of Web Components",
-    "url": "https://lea.verou.me/2020/09/the-failed-promise-of-web-components/",
-    "content": "Web Components had so much potential to empower HTML to do more, and make web development more accessible to non-programmers and easier for programmers. Remember how exciting it was every time we got&hellip;"
-  },
-  {
-    "date": "2020-09-30T15:59:27.000Z",
-    "title": "Module Mocking in Jest",
-    "url": "https://codeburst.io/module-mocking-in-jest-ff174397e5ff?source=rss----61061eb0c96b---4",
-    "content": "Exports and module factories and mock implementations — oh my!"
-  },
-  {
-    "date": "2020-09-30T15:54:42.000Z",
-    "title": "D-Wave Announces General Availability of First Quantum Computer for Business",
-    "url": "https://www.dwavesys.com/press-releases/d-wave-announces-general-availability-first-quantum-computer-built-business",
-    "content": ""
-  },
-  {
-    "date": "2020-09-30T15:52:03.000Z",
-    "title": "Skeleton Pruning",
-    "url": "https://codeburst.io/skeleton-pruning-448b57cb3d0?source=rss----61061eb0c96b---4",
-    "content": "Skeletons can be viewed as a compact representation of a binary image. Skeletons obtained using medial axis transform or thinning…"
-  },
-  {
-    "date": "2020-09-30T15:51:26.000Z",
-    "title": "Visualize Twilio Usage Data with Python, Pandas and Jupyter Notebooks",
-    "url": "https://codeburst.io/visualize-twilio-usage-data-with-python-pandas-and-jupyter-notebooks-d4f03751cc63?source=rss----61061eb0c96b---4",
-    "content": "Custom reports for more control over your own data"
-  },
-  {
-    "date": "2020-09-30T15:48:14.000Z",
-    "title": "How to Manage Terraform Secrets with Akeyless Vault",
-    "url": "https://codeburst.io/how-to-manage-terraform-secrets-with-akeyless-vault-5061241f4f31?source=rss----61061eb0c96b---4",
-    "content": "Terraform is an Infrastructure as a Code (IaC) platform by Hashicorp that helps design and deploy a Virtual or Cloud Infrastructure using…"
-  },
-  {
-    "date": "2020-09-30T15:40:20.000Z",
-    "title": "AWS Analytics Website for $1/Month",
-    "url": "https://codeburst.io/aws-analytics-website-for-1-month-940bbaa9ff3b?source=rss----61061eb0c96b---4",
-    "content": "Build a dynamic site in 2-days with AWS S3, Lambda and React"
-  },
-  {
-    "date": "2020-09-30T15:35:56.000Z",
-    "title": "Changing domains for a website hosted on Netlify and how to tell Google you've moved",
-    "url": "https://dev.to/michael/changing-domains-for-a-website-hosted-on-netlify-and-how-to-tell-google-you-ve-moved-4p6k"
-  },
-  {
-    "date": "2020-09-30T14:18:13.000Z",
-    "title": "Learn Object Oriented Programming Basics in 30 Minutes: A Free Crash Course ",
-    "url": "https://www.freecodecamp.org/news/object-oriented-programming-crash-course/",
-    "content": "Object Oriented Programming is a common method of structuring programs that all developers should make time to properly understand. It involves bundling related properties and behaviors into&hellip;"
-  },
-  {
-    "date": "2020-09-30T13:39:00.000Z",
-    "title": "What is Sentiment Analysis? A Complete Guide for Beginners ",
-    "url": "https://www.freecodecamp.org/news/what-is-sentiment-analysis-a-complete-guide-to-for-beginners/",
-    "content": "Sentiment analysis is the technique of analyzing sentiment behind a given piece of text. In this article, we will look at the concepts and a few practical applications."
-  },
-  {
-    "date": "2020-09-30T13:27:12.000Z",
-    "title": "React.js with Factory Pattern ? Building Complex UI With Ease",
-    "url": "https://blog.bitsrc.io/react-js-with-factory-pattern-building-complex-ui-with-ease-fe6db29ab1c1?source=rss----5c2fdf847f4a---4",
-    "content": "Objective:"
-  },
-  {
-    "date": "2020-09-30T13:24:29.000Z",
-    "title": "GM’s $2 billion tie-up with Nikola is on hold",
-    "url": "https://marker.medium.com/gms-2-billion-tie-up-with-nikola-is-on-hold-c92340230127?source=rss----7b6769f2748b---4",
-    "content": "GM’s blockbuster deal to buy 11% of Nikola and make the startup’s electric trucks, will not close today as scheduled over turmoil that…"
-  },
-  {
-    "date": "2020-09-30T13:21:47.000Z",
-    "title": "Gitter is joining Matrix",
-    "url": "https://matrix.org/blog/2020/09/30/welcoming-gitter-to-matrix",
-    "content": "Hi all,We are ridiculously excited to announce that Gitter is joining the Matrix ecosystem and will become the first major existing chat platform to switch to natively speaking Matrix!If you’re&hellip;"
-  },
-  {
-    "date": "2020-09-30T13:18:08.000Z",
-    "title": "Getting Started with React + TypeScript",
-    "url": "https://medium.com/javascript-in-plain-english/react-typescript-813b02ff3672?source=rss----4b3a1ed4f11c---4",
-    "content": "The basic benefits of combining both"
-  },
-  {
-    "date": "2020-09-30T13:16:09.000Z",
-    "title": "Creative Coding: 16 Tools in JavaScript and Other Programming Languages",
-    "url": "https://medium.com/javascript-in-plain-english/all-about-creative-coding-e79268d944e8?source=rss----4b3a1ed4f11c---4"
-  },
-  {
-    "date": "2020-09-30T13:07:52.000Z",
-    "title": "Use Google’s Tink for Asymmetric Encryption",
-    "url": "https://medium.com/@jryancanty/use-googles-tink-for-asymmetric-encryption-c8957e6b5506?source=rss-------8-----------------cybersecurity",
-    "content": "In this tutorial, we’ll implement a common solution to a problem that GPG typically solves, but do it all with Tink."
-  },
-  {
-    "date": "2020-09-30T13:00:54.000Z",
-    "title": "Web animations with HTML, CSS, and JavaScript",
-    "url": "https://blog.logrocket.com/web-animation-with-html-css-and-javascript/",
-    "content": "This guide runs through some basic animations in CSS and JavaScript and shows you how to add input animations to your site."
-  },
-  {
-    "date": "2020-09-30T13:00:38.000Z",
-    "title": "4 3D rendering engines every game developer should know",
-    "url": "https://blog.logrocket.com/top-4-3d-rendering-engines-available-in-js/",
-    "content": "In this guide, we'll zoom in on four of the best and most popular 3D rendering engines the JavaScript community has to offer."
-  },
-  {
-    "date": "2020-09-30T12:53:52.000Z",
-    "title": "4 Key Benefits of Application Security Orchestration and Correlation (ASOC)",
-    "url": "https://medium.com/swlh/4-key-benefits-of-application-security-orchestration-and-correlation-asoc-23251647e783?source=rss-------8-----------------cybersecurity"
-  },
-  {
-    "date": "2020-09-30T12:53:52.000Z",
-    "title": "4 Key Benefits of Application Security Orchestration and Correlation (ASOC)",
-    "url": "https://medium.com/@can_76225/4-key-benefits-of-application-security-orchestration-and-correlation-asoc-23251647e783?source=rss-------8-----------------cybersecurity",
-    "content": "In the modern software development life cycle, there is a variety of security tools used in different phases of development pipelines."
-  },
-  {
-    "date": "2020-09-30T12:00:09.000Z",
-    "title": "Show and hide content easily with ​details and summary HTML tags ",
-    "url": "https://dev.to/vtrpldn/show-and-hide-content-easily-with-details-and-summary-html-tags-3eif"
-  },
-  {
-    "date": "2020-09-30T11:43:14.000Z",
-    "title": "How To Not Get Blocked While You’re Waiting For A Code Review",
-    "url": "https://itnext.io/how-to-not-get-blocked-while-youre-waiting-for-a-code-review-651451f6b1b0?source=rss----5b301f10ddcd---4",
-    "content": "You’ve made your awesome new Pull Request, but the person who has to review it won’t have time for several hours. While we all strive to…"
-  },
-  {
-    "date": "2020-09-30T11:32:09.000Z",
-    "title": "What Makes People Feel Upbeat at Work",
-    "url": "https://www.newyorker.com/science/maria-konnikova/what-makes-people-feel-upbeat-at-work"
-  },
-  {
-    "date": "2020-09-30T10:58:49.000Z",
-    "title": "Build Your Own Artificial Neural Network",
-    "url": "http://nautil.us/blog/build-your-own-artificial-neural-network-its-easy",
-    "content": "The first artificial neural networks weren’t abstractions inside a computer, but actual physical systems made of whirring motors…"
-  },
-  {
-    "date": "2020-09-30T10:14:41.000Z",
-    "title": "Automate Excel with Python",
-    "url": "https://dev.to/stokry/automate-excel-with-python-1mm"
-  },
-  {
-    "date": "2020-09-30T09:56:38.000Z",
-    "title": "30 Days Of React",
-    "url": "https://dev.to/asabeneh/30-days-of-react-2b7e"
-  },
-  {
-    "date": "2020-09-30T08:08:47.000Z",
-    "title": "Words from Old Books",
-    "url": "https://words.fromoldbooks.org/",
-    "content": "Books from a gentler age. Script font is Origins by Laura Worthington; ornaments from P22 1722 by Ted Staunton; Cone of Silence font by doodle_lee_do, used by kind permission. DO NOT TRY TO DOWNLOAD&hellip;"
-  },
-  {
-    "date": "2020-09-30T08:07:58.000Z",
-    "title": "Implement SSO on a Single Page Application with Spring Security and ID porten",
-    "url": "https://blogg.bekk.no/implement-sso-on-a-single-page-application-with-spring-security-and-id-porten-c14497cd10d5?source=rss-------8-----------------cybersecurity",
-    "content": "This tutorial guides you through the jungle of Spring Security and demonstrates how to configure a custom OAuth2 client."
-  },
-  {
-    "date": "2020-09-30T06:44:53.000Z",
-    "title": "Drawing Complex Shapes in RaphaelJS",
-    "url": "https://medium.com/javascript-in-plain-english/drawing-complex-shapes-in-raphaeljs-99e18a4654cc?source=rss----4b3a1ed4f11c---4",
-    "content": "Using the SVG Path Specification to draw complex shapes in RaphaelJS"
-  },
-  {
-    "date": "2020-09-30T06:43:04.000Z",
-    "title": "How I dealt with over 30,000 ESLint errors",
-    "url": "https://medium.com/javascript-in-plain-english/how-i-dealt-with-over-30-000-eslint-errors-640472eecc0?source=rss----4b3a1ed4f11c---4",
-    "content": "ESLint — Migrating to a Comprehensive Configuration"
-  },
-  {
-    "date": "2020-09-30T06:42:14.000Z",
-    "title": "Creating a URL shortener with Node.js and MongoDB",
-    "url": "https://medium.com/javascript-in-plain-english/creating-a-url-shortener-with-node-js-and-mongodb-db4bc6488445?source=rss----4b3a1ed4f11c---4",
-    "content": "Here is how to create a custom URL shortener using Node, MongoDB and Express."
-  },
-  {
-    "date": "2020-09-30T06:31:26.000Z",
-    "title": "Understanding How UUIDs Are Generated",
-    "url": "https://digitalbunker.dev/2020/09/30/understanding-how-uuids-are-generated/",
-    "content": "You’ve likely used UUIDs in projects before and assumed them to be unique. Today, we’ll take a look at the main aspects of the implementation and understand why UUIDs are practically unique, though an&hellip;"
-  },
-  {
-    "date": "2020-09-30T06:19:58.000Z",
-    "title": "Apple T2 Chip Jailbreak",
-    "url": "https://reportcybercrime.com/hackers-jailbreak-apples-t2-security-chip-powered-by-bridgeos/",
-    "content": "The Apple T2 security chip has finally been jailbroken! Here’s all you need to know about it. The Apple T2 Security chip now has a jailbreak The latest update of checkra1n adds support for bridgeOS –&hellip;"
-  },
-  {
-    "date": "2020-09-30T05:42:31.000Z",
-    "title": "The Disappearing Poet (2005)",
-    "url": "https://www.newyorker.com/magazine/2005/07/04/the-disappearing-poet"
-  },
-  {
-    "date": "2020-09-30T05:37:31.000Z",
-    "title": "Microsoft Bought a $7.5 Billion Security Blanket",
-    "url": "https://marker.medium.com/microsoft-bought-a-7-5-billion-security-blanket-70269a9ed769?source=rss----7b6769f2748b---4",
-    "content": "The massive deal for Bethesda exposes the fallacy of ownership and the anxiety of a giant"
-  },
-  {
-    "date": "2020-09-30T05:33:29.000Z",
-    "title": "Bandcamp’s Attempt to Take on Spotify, by the Numbers",
-    "url": "https://marker.medium.com/bandcamps-attempt-to-take-on-spotify-by-the-numbers-3504203ea1fc?source=rss----7b6769f2748b---4",
-    "content": "Unlike the streaming behemoth, the artist-focused platform lets fans support their favorite musicians directly"
-  },
-  {
-    "date": "2020-09-30T05:07:17.000Z",
-    "title": "COM Interface API Tutorial: Java Spring Boot + JACOB Library ",
-    "url": "https://www.freecodecamp.org/news/interface-in-java-tutorial-how-to-call-the-com-interface-spring-boot-jacob-library/",
-    "content": "In this article, I will show you how to embed the JACOB library [https://sourceforge.net/projects/jacob-project/] into your Spring Boot [https://spring.io/projects/spring-boot] application. This will&hellip;"
-  },
-  {
-    "date": "2020-09-30T05:03:26.000Z",
-    "title": "Packaging Your Vue.js App With NodeJS Backend For Production",
-    "url": "https://medium.com/bb-tutorials-and-thoughts/packaging-your-vue-js-app-with-nodejs-backend-for-production-83abe213532c?source=rss-------8-----------------javascript",
-    "content": "A step by step Guide with an Example Project"
-  },
-  {
-    "date": "2020-09-30T04:57:51.000Z",
-    "title": "Transistor Options Beyond 3nm (2018)",
-    "url": "https://semiengineering.com/transistor-options-beyond-3nm/",
-    "content": "Transistor Options Beyond 3nm Complicated and expensive technologies are being planned all the way to 2030, but it's not clear how far the scaling roadmap will really go."
-  },
-  {
-    "date": "2020-09-30T04:47:13.000Z",
-    "title": "A Gentle Introduction to JavaScript Promises. I Promise :).",
-    "url": "https://medium.com/swlh/a-gentle-introduction-to-javascript-promises-i-promise-fa7bba116ad2?source=rss-------8-----------------javascript",
-    "content": "Asynchronous operations before promises."
-  },
-  {
-    "date": "2020-09-30T04:47:13.000Z",
-    "title": "A Gentle Introduction to JavaScript Promises. I Promise :).",
-    "url": "https://medium.com/@konvergeStudios/a-gentle-introduction-to-javascript-promises-i-promise-fa7bba116ad2?source=rss-------8-----------------javascript",
-    "content": "Asynchronous operations before promises."
-  },
-  {
-    "date": "2020-09-30T04:22:52.000Z",
-    "title": "How to draw a hexagonal grid in react with Canvas",
-    "url": "https://medium.com/swlh/how-to-draw-a-hexagonal-grid-in-react-with-canvas-d94f04d287ec?source=rss-------8-----------------javascript",
-    "content": "Being in the Flatiron School boot camp is something really amazing. I went from having a minimal, almost non existent past in coding to…"
-  },
-  {
-    "date": "2020-09-30T03:19:40.000Z",
-    "title": "From zero to main(): How to write a bootloader from scratch",
-    "url": "https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch",
-    "content": "An in-depth tutorial on how to write a bootloader from scratch for ARM cortex-m series microcontrollers."
-  },
-  {
-    "date": "2020-09-30T03:04:40.000Z",
-    "title": "U.S. expected to sue Google next week as DOJ seeks support from states",
-    "url": "https://www.reuters.com/article/us-tech-antitrust-google/u-s-expected-to-sue-google-next-week-as-doj-seeks-support-from-states-idUSKBN26K3SR",
-    "content": "The U.S. Justice Department is expected to sue Alphabet's Google as soon as next week, and is currently urging state attorneys general to sign onto the lawsuit, according to three sources familiar&hellip;"
-  },
-  {
-    "date": "2020-09-30T02:47:20.000Z",
-    "title": "Architecture of Open Source Applications Book",
-    "url": "http://aosabook.org",
-    "content": "Redirecting to http://aosabook.org/en/index.html."
-  },
-  {
-    "date": "2020-09-30T02:23:10.000Z",
-    "title": "Haskell GHC 9.0.1-alpha released with Linear type support",
-    "url": "https://mail.haskell.org/pipermail/ghc-devs/2020-September/019286.html",
-    "content": "Hello all, The GHC team is very pleased to announce the availability of the first alpha release in the GHC 9.0 series. Source and binary distributions are available at the usual place:&hellip;"
-  },
-  {
-    "date": "2020-09-30T01:43:34.000Z",
-    "title": "What is SDLC? Software Development Life Cycle Phases, Methodologies, and Processes Explained ",
-    "url": "https://www.freecodecamp.org/news/what-is-sdlc-software-development-life-cycle-phases-methodologies-and-processes-explained/",
-    "content": "James Taylor, who authored Managing Information Technology Projects, noted that a “project life cycle encompasses all the activities of a project.\" And the goal of systems development is the&hellip;"
-  },
-  {
-    "date": "2020-09-30T01:39:52.000Z",
-    "title": "Open Source Airtable",
-    "url": "https://firetable.io/",
-    "content": "Firetable combines the power of Firestore with the simplicity of spreadsheets. Go beyond internal data portals! Unlock accessible Google Cloud Functions, Webhooks, automation, integrations with&hellip;"
-  },
-  {
-    "date": "2020-09-30T01:28:00.000Z",
-    "title": "CSS Responsive Image Tutorial: How to Make Images Responsive with CSS ",
-    "url": "https://www.freecodecamp.org/news/css-responsive-image-tutorial/",
-    "content": "The majority of today’s websites are responsive. And if you need to center and align image [/news/how-to-center-an-image-in-css/] on those site, you need to learn how to make images fluid or&hellip;"
-  },
-  {
-    "date": "2020-09-30T01:03:41.000Z",
-    "title": "Several Apple Services Down",
-    "url": "https://www.apple.com/support/systemstatus/",
-    "content": "Apple Mac iPad iPhone Watch"
-  },
-  {
-    "date": "2020-09-30T01:01:32.000Z",
-    "title": "Orange Health (YC S20) Is Hiring Mobile App Engineers (RN, iOS/Droid) in India",
-    "url": "https://angel.co/company/orange-health/jobs/945677-experienced-mobile-app-engineer-react-native-ios-android"
-  },
-  {
-    "date": "2020-09-30T00:59:31.000Z",
-    "title": "Absolute imports with Create React App",
-    "url": "https://medium.com/@mikecripps/absolute-imports-with-create-react-app-d70fb65ea012?source=rss-------8-----------------javascript",
-    "content": "Relative vs Absolute imports"
-  },
-  {
-    "date": "2020-09-30T00:49:05.000Z",
-    "title": "Deep Programming",
-    "url": "https://medium.com/better-programming/deep-programming-da7dc58a7104?source=rss----d0b105d10f0a---4",
-    "content": "Cal Newport’s book“Deep Work” applied to programming"
-  },
-  {
-    "date": "2020-09-30T00:22:11.000Z",
-    "title": "7 Takeaways About Good Programmers",
-    "url": "https://medium.com/better-programming/7-takeaways-about-good-programmers-5bf5a4afdec9?source=rss----d0b105d10f0a---4",
-    "content": "#6: Come back later and make it better"
-  },
-  {
-    "date": "2020-09-30T00:10:52.000Z",
-    "title": "Sorting a Python Pandas DataFrames by Index and Value",
-    "url": "https://medium.com/better-programming/sorting-a-python-pandas-dataframes-by-index-and-value-7306ac754014?source=rss----d0b105d10f0a---4",
-    "content": "Better sorting"
-  },
-  {
-    "date": "2020-09-29T23:57:42.000Z",
-    "title": "NIST Pair of Atomic Clocks Reveal Einstein's Relativity at a Personal Scale",
-    "url": "https://www.nist.gov/news-events/news/2010/09/nist-pair-aluminum-atomic-clocks-reveal-einsteins-relativity-personal-scale",
-    "content": "BOULDER, Colo."
-  },
-  {
-    "date": "2020-09-29T23:53:23.000Z",
-    "title": "The TRUE difference between [] and {{}} bindings in Angular",
-    "url": "https://medium.com/ngconf/the-true-difference-between-and-bindings-in-angular-1b9a854ea1d6?source=rss-------8-----------------javascript",
-    "content": "One of the parts of Angular that most developers think they understand, but many don’t, is the true nature of [] and {{}} bindings."
-  },
-  {
-    "date": "2020-09-29T23:19:46.000Z",
-    "title": "JavaScript Challenge: Simple Pig Latin",
-    "url": "https://dev.to/albertomontalesi/javascript-challenge-simple-pig-latin-1f2g",
-    "content": "This article was originally posted on my blog. Head over to inspiredwebdev.com for more articles and..."
-  },
-  {
-    "date": "2020-09-29T22:54:44.000Z",
-    "title": "Top React Autocomplete Libraries in 2020",
-    "url": "https://blog.bitsrc.io/top-react-autocomplete-libraries-in-2020-1b300476eb0e?source=rss----5c2fdf847f4a---4",
-    "content": "Autocompleting is an essential feature of any modern web application. Here I review top React libraries + a tutorial to build your own."
-  },
-  {
-    "date": "2020-09-29T22:53:00.000Z",
-    "title": "SessionStorage and LocalStorage: A UX/Security Comparison",
-    "url": "https://blog.bitsrc.io/sessionstorage-and-localstorage-a-ux-security-comparison-a05c486413e0?source=rss----5c2fdf847f4a---4",
-    "content": "Comparing security and UX of Session Storage and Local Storage."
-  },
-  {
-    "date": "2020-09-29T22:43:09.000Z",
-    "title": "Understanding Generators",
-    "url": "https://codeburst.io/understanding-generators-25ddb9b90331?source=rss----61061eb0c96b---4",
-    "content": "How to read, write and use generators in Python"
-  },
-  {
-    "date": "2020-09-29T22:38:17.000Z",
-    "title": "Fortran Compiled to WebAssembly",
-    "url": "https://github.com/StarGate01/Full-Stack-Fortran",
-    "content": "Webscale Fortran. Contribute to StarGate01/Full-Stack-Fortran development by creating an account on GitHub."
-  },
-  {
-    "date": "2020-09-29T22:25:33.000Z",
-    "title": "Protecting Rails from Attacks",
-    "url": "https://medium.com/@aimee_liang/protecting-rails-from-attacks-7fef3eb3e06e?source=rss-------8-----------------cybersecurity",
-    "content": "The first time I heard the term “rainbow table”, I admit I did a double take. What on Earth is a rainbow table? It sounds like something…"
-  },
-  {
-    "date": "2020-09-29T22:23:57.000Z",
-    "title": "The Technical Interview Guide to String Manipulation",
-    "url": "https://medium.com/better-programming/the-technical-interview-guide-to-string-manipulation-92f4c4649cd?source=rss----d0b105d10f0a---4",
-    "content": "JavaScript string manipulation for interview prep and daily coding"
-  },
-  {
-    "date": "2020-09-29T22:05:48.000Z",
-    "title": "How to Perform Operations on Matrices in Python",
-    "url": "https://medium.com/better-programming/how-to-perform-operations-on-matrices-in-python-4962050c4f2a?source=rss----d0b105d10f0a---4",
-    "content": "A complete guide to learning matrices and evaluating a linear system of equation using NumPy"
-  },
-  {
-    "date": "2020-09-29T21:54:20.000Z",
-    "title": "Seeing Theory: A Visual Introduction to Probability and Statistics",
-    "url": "https://seeing-theory.brown.edu/index.html",
-    "content": "A visual introduction to probability and statistics."
-  },
-  {
-    "date": "2020-09-29T21:36:53.000Z",
-    "title": "Phishing with Worms — The Greatest Password Theft I’ve Ever Seen",
-    "url": "https://medium.com/swlh/phishing-with-worms-the-greatest-password-theft-ive-ever-seen-26d6ad4658f9?source=rss-------8-----------------cybersecurity",
-    "content": "I got hit by a devastating worm that spread through phishing. This is how it worked and what I learned from it."
-  },
-  {
-    "date": "2020-09-29T21:28:07.000Z",
-    "title": "Python 3.9 is around the corner",
-    "url": "https://lwn.net/Articles/831783/"
-  },
-  {
-    "date": "2020-09-29T21:26:13.000Z",
-    "title": "Python for Kids: A Comprehensive Python Development Tutorial for Kids",
-    "url": "https://github.com/mytechnotalent/Python-For-Kids",
-    "content": "A comprehensive Python Development tutorial FOR KIDS utilizing a micro:bit Development Board going step-by-step into the world of Python for Microcontrollers. - mytechnotalent/Python-For-Kids"
-  },
-  {
-    "date": "2020-09-29T21:21:18.000Z",
-    "title": "OBS Studio 26.0",
-    "url": "https://github.com/obsproject/obs-studio/releases/tag/26.0.0"
-  },
-  {
-    "date": "2020-09-29T21:06:20.000Z",
-    "title": "Improve Raspberry Pi 4 disc read speed with 64-bit Raspbian OS with USB mass storage boot",
-    "url": "https://levelup.gitconnected.com/improve-raspberry-pi-4-disc-read-speed-with-64-bit-raspbian-os-with-usb-mass-storage-boot-4a22ff2d34e1?source=rss----5517fd7b58a6---4"
-  },
-  {
-    "date": "2020-09-29T21:04:24.000Z",
-    "title": "How to Build Tailored AMIs To Level Up your Infrastructure",
-    "url": "https://levelup.gitconnected.com/how-to-build-tailored-amis-to-level-up-your-infrastructure-5129878dbccd?source=rss----5517fd7b58a6---4"
-  },
-  {
-    "date": "2020-09-29T20:56:31.000Z",
-    "title": "MVC, MVP and MVVM Comparations",
-    "url": "https://levelup.gitconnected.com/mvc-mvp-and-mvvm-comparations-d2bddb467e11?source=rss----5517fd7b58a6---4"
-  },
-  {
-    "date": "2020-09-29T20:42:31.000Z",
-    "title": "Git & GitHub Beginner Tutorial",
-    "url": "https://levelup.gitconnected.com/git-github-beginner-tutorial-b5885882a380?source=rss----5517fd7b58a6---4"
-  },
-  {
-    "date": "2020-09-29T20:42:27.000Z",
-    "title": "“The problem is so big that it is imperiling the economies of the cities themselves.”",
-    "url": "https://marker.medium.com/the-problem-is-so-big-that-it-is-imperiling-the-economies-of-the-cities-themselves-288c3f1f7048?source=rss----7b6769f2748b---4",
-    "content": "Not everyone loves remote working. As the Wall Street Journal reports, cities have been hurt by all those Zoom meetings — some more than…"
-  },
-  {
-    "date": "2020-09-29T20:38:37.000Z",
-    "title": "Go: Singly Linked Lists",
-    "url": "https://levelup.gitconnected.com/go-singly-linked-lists-with-insertion-deletion-traversal-e9da5bb0dbe1?source=rss----5517fd7b58a6---4"
-  },
-  {
-    "date": "2020-09-29T20:38:01.000Z",
-    "title": "Working Selectable “Rating Stars” Without JavaScript FIRST, Then Enhance It With Scripting.",
-    "url": "https://levelup.gitconnected.com/working-selectable-rating-stars-without-javascript-first-then-enhance-it-with-scripting-f9d61876c850?source=rss----5517fd7b58a6---4"
-  },
-  {
-    "date": "2020-09-29T20:37:12.000Z",
-    "title": "PHP Arrays",
-    "url": "https://levelup.gitconnected.com/php-arrays-64d9c823e4fd?source=rss----5517fd7b58a6---4"
-  },
-  {
-    "date": "2020-09-29T20:37:00.000Z",
-    "title": "Build infinite pagination with ES6 async generators and iterables",
-    "url": "https://levelup.gitconnected.com/build-infinite-pagination-with-es6-async-generators-and-iterables-f29a46aac466?source=rss----5517fd7b58a6---4"
-  },
-  {
-    "date": "2020-09-29T20:36:37.000Z",
-    "title": "SQL v. Pandas: JOIN",
-    "url": "https://levelup.gitconnected.com/sql-v-pandas-join-57642dc3ce76?source=rss----5517fd7b58a6---4"
-  },
-  {
-    "date": "2020-09-29T20:30:49.000Z",
-    "title": "Deploying React application in Nginx server in AWS EC2",
-    "url": "https://levelup.gitconnected.com/deploying-react-application-in-nginx-server-in-aws-ec2-6512ff71593b?source=rss----5517fd7b58a6---4"
-  },
-  {
-    "date": "2020-09-29T20:30:38.000Z",
-    "title": "Apollo – An Extensible Docker-Based Platform as a Service (PaaS)",
-    "url": "https://gitlab.com/p3r.one/apollo",
-    "content": "apollo - an extensible Docker-based Platform as a Service (PaaS)"
-  },
-  {
-    "date": "2020-09-29T20:28:46.000Z",
-    "title": "The 7 Most Popular DEV Posts from the Past Week",
-    "url": "https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-25p7",
-    "content": "A round up of the most-read and most-loved contributions from the community this past week."
-  },
-  {
-    "date": "2020-09-29T20:28:32.000Z",
-    "title": "Contact form without a server using Angular",
-    "url": "https://medium.com/swlh/contact-form-without-a-server-using-angular-95af74da4ed2?source=rss-------8-----------------javascript",
-    "content": "Do you ever need a contact form for your personal website, but don’t want to have to setup a backend server, use SendGrid, Mailchimp, Formspree, to send only a few emails a day? Look no further, you…"
-  },
-  {
-    "date": "2020-09-29T20:28:32.000Z",
-    "title": "Contact form without a server using Angular",
-    "url": "https://medium.com/@anthonysukadil1/contact-form-without-a-server-using-angular-95af74da4ed2?source=rss-------8-----------------javascript",
-    "content": "Do you ever need a contact form for your personal website, but don’t want to have to setup a backend server, use SendGrid, Mailchimp, Formspree, to send only a few emails a day? Look no further, you…"
-  },
-  {
-    "date": "2020-09-29T20:26:31.000Z",
-    "title": "ESLint — A Proofreader for your Code",
-    "url": "https://medium.com/javascript-in-plain-english/eslint-a-proofreader-for-your-code-cd7e56ae391f?source=rss----4b3a1ed4f11c---4",
-    "content": "A practical guide to setting up and using ESLint"
-  },
-  {
-    "date": "2020-09-29T20:17:54.000Z",
-    "title": "How to Build Native, Cross-Platform Apps With Golang",
-    "url": "https://medium.com/better-programming/build-native-cross-platform-apps-with-go-70f9572baeb5?source=rss----d0b105d10f0a---4",
-    "content": "Native apps with Go? Yes, really"
-  },
-  {
-    "date": "2020-09-29T20:00:08.000Z",
-    "title": "The Trump Administration Cracks down on Chinese Hacking Group apt41",
-    "url": "https://medium.com/curious/the-trump-administration-cracks-down-on-chinese-hacking-group-apt41-51e36d52b5c7?source=rss-------8-----------------cybersecurity",
-    "content": "This appeared in The Millennial Source"
-  },
-  {
-    "date": "2020-09-29T19:36:31.000Z",
-    "title": "Summary of all the MIT Introduction to Algorithms lectures (2009)",
-    "url": "https://catonmat.net/summary-of-mit-introduction-to-algorithms",
-    "content": "As you all may know, I watched and posted my lecture notes of the whole MIT Introduction to Algorithms course. In this post I want to summarize all the topics that were covered in the lectures and&hellip;"
-  },
-  {
-    "date": "2020-09-29T19:19:30.000Z",
-    "title": "Demystifying Palantir: The Most Controversial Company to Go Public in 2020",
-    "url": "https://marker.medium.com/demystifying-palantir-the-most-controversial-company-to-go-public-in-2020-89bb477acf3d?source=rss----7b6769f2748b---4",
-    "content": "The software and consulting business is doubling down on its work with government agencies"
-  },
-  {
-    "date": "2020-09-29T19:07:21.000Z",
-    "title": "When Fonts Fall",
-    "url": "https://www.figma.com/blog/when-fonts-fall/",
-    "content": "A deep-dive into font fallback"
-  },
-  {
-    "date": "2020-09-29T19:00:55.000Z",
-    "title": "Rust 2021: GUI",
-    "url": "https://raphlinus.github.io/rust/druid/2020/09/28/rust-2021.html",
-    "content": "This is a response to the Rust call for blogs 2021 and also a followup to last year’s entry. It will be entirely focused on GUI."
-  },
-  {
-    "date": "2020-09-29T18:47:49.000Z",
-    "title": "The Better Way to Recruit Tech Talent",
-    "url": "https://medium.com/better-programming/2020-026-a-better-way-to-recruit-tech-talent-74c8817439d1?source=rss----d0b105d10f0a---4",
-    "content": "Strategies that work and common mistakes that you can easily avoid"
-  },
-  {
-    "date": "2020-09-29T18:32:58.000Z",
-    "title": "Forem Issue Walkthrough: Comment Liquid Tags",
-    "url": "https://dev.to/msarit/forem-issue-walkthrough-comment-liquid-tags-5dg4",
-    "content": "I learned a lot from working on a Forem issue, where comments containing Comment Liquid Tags were ren..."
-  },
-  {
-    "date": "2020-09-29T18:26:11.000Z",
-    "title": "The 6 phases of the Node.js event loop explained",
-    "url": "https://medium.com/javascript-in-plain-english/node-js-event-loop-explained-d27647ec8d53?source=rss----4b3a1ed4f11c---4",
-    "content": "The different phases and the tasks that each phase handles"
-  },
-  {
-    "date": "2020-09-29T18:24:25.000Z",
-    "title": "2020 Trends in the Developer Community",
-    "url": "https://medium.com/javascript-in-plain-english/2020-trends-in-the-developer-community-68f017dd47a?source=rss----4b3a1ed4f11c---4",
-    "content": "Analysis Results from 100,000+ Developers and Hiring Managers"
-  },
-  {
-    "date": "2020-09-29T18:23:34.000Z",
-    "title": "Top 5 Free Angular Bootstrap Resources",
-    "url": "https://medium.com/javascript-in-plain-english/how-to-use-bootstrap-4-with-angular-10-top-5-free-angular-bootstrap-resources-e96640d65b93?source=rss----4b3a1ed4f11c---4",
-    "content": "And how to use Bootstrap 4 with Angular 10"
-  },
-  {
-    "date": "2020-09-29T18:21:24.000Z",
-    "title": "Two ways to visit every node in a web page using JavaScript",
-    "url": "https://medium.com/javascript-in-plain-english/walking-the-dom-7a1123fb67da?source=rss----4b3a1ed4f11c---4",
-    "content": "Walking the DOM"
-  },
-  {
-    "date": "2020-09-29T18:20:09.000Z",
-    "title": "Top 5 Free Vue Dashboards",
-    "url": "https://medium.com/javascript-in-plain-english/top-5-free-vue-dashboards-framework-comparison-ae43aef9fb6b?source=rss----4b3a1ed4f11c---4",
-    "content": "There are lots of other frameworks in the market and around the world that people often prefer. But Vuejs framework is different and a…"
-  },
-  {
-    "date": "2020-09-29T18:18:15.000Z",
-    "title": "JavaScript 2020: What’s New in ECMAScript",
-    "url": "https://medium.com/javascript-in-plain-english/javascript-2020-whats-new-in-ecmascript-14c0fe58c10a?source=rss----4b3a1ed4f11c---4",
-    "content": "New exciting features for JavaScript 2020. The new ES2020 features are now published! This means we now have a complete list of the…"
-  },
-  {
-    "date": "2020-09-29T18:17:20.000Z",
-    "title": "How to Represent Yourself Well in Your Software Engineering Interview",
-    "url": "https://medium.com/better-programming/how-to-land-a-perfect-software-engineer-interview-981e617aae1a?source=rss----d0b105d10f0a---4",
-    "content": "Land that perfect interview and get the job"
-  },
-  {
-    "date": "2020-09-29T18:14:59.000Z",
-    "title": "New Features in the Fish Shell",
-    "url": "https://lwn.net/SubscriberLink/832429/5a786cc0fed26353/",
-    "content": "Fish (the \"friendly interactive shell\") has the explicit goal of being more user-friendly than other shells. It features a modern command-line interface with syntax highlighting, tab completion, and&hellip;"
-  },
-  {
-    "date": "2020-09-29T17:59:29.000Z",
-    "title": "Learn Angular Basics by Building a Simple App Using Angular Material",
-    "url": "https://medium.com/better-programming/learn-angular-basics-by-building-a-simple-app-using-angular-material-9bbc19aa33cf?source=rss----d0b105d10f0a---4",
-    "content": "Bonus: Includes a sneak peek of using Angular Reactive forms"
-  },
-  {
-    "date": "2020-09-29T17:43:33.000Z",
-    "title": "AI-Powered Code Completion Is Amazing… and Scary Sometimes",
-    "url": "https://medium.com/better-programming/ai-powered-code-completion-is-amazing-and-scary-sometimes-f132c8316fbd?source=rss----d0b105d10f0a---4",
-    "content": "A free tool that will save you a lot of time"
-  },
-  {
-    "date": "2020-09-29T17:30:41.000Z",
-    "title": "WebRTC over WebSocket in Node.js",
-    "url": "https://blog.logrocket.com/webrtc-over-websocket-in-node-js/",
-    "content": "WebSocket servers based on Node.js can provide full-duplex, real-time signaling for WebRTC implementations."
-  },
-  {
-    "date": "2020-09-29T17:20:33.000Z",
-    "title": "“Even if you want to watch Tenet, you don’t know if you have COVID and you don’t know if the…",
-    "url": "https://marker.medium.com/even-if-you-want-to-watch-tenet-you-dont-know-if-you-have-covid-and-you-don-t-know-if-the-e3dcf9913f67?source=rss----7b6769f2748b---4",
-    "content": "When will you feel safe returning to movie theaters? Cinemas are praying it’s sooner rather than later: The largest theater chain in the…"
-  },
-  {
-    "date": "2020-09-29T16:55:05.000Z",
-    "title": "Don’t dynamically import code in a directory",
-    "url": "https://itnext.io/dont-dynamically-import-code-in-a-directory-838cedf9534a?source=rss----5b301f10ddcd---4",
-    "content": "Some developers are following a trend of importing code by directory in NodeJS using the fs module — find out why you shouldn’t."
-  },
-  {
-    "date": "2020-09-29T16:28:34.000Z",
-    "title": "Compact nuclear fusion reactor is 'very likely to work,' studies suggest",
-    "url": "https://www.nytimes.com/2020/09/29/climate/nuclear-fusion-reactor.html",
-    "content": "A series of research papers renews hope that the long-elusive goal of mimicking the way the sun produces energy might be achievable."
-  },
-  {
-    "date": "2020-09-29T16:00:46.000Z",
-    "title": "3 ways to add custom fonts to your Material UI project",
-    "url": "https://blog.logrocket.com/3-ways-to-add-custom-fonts-to-your-material-ui-project/",
-    "content": "In this article, we'll look at three ways to add custom fonts to a Material UI project without much hassle."
-  },
-  {
-    "date": "2020-09-29T15:40:41.000Z",
-    "title": "🎂 Learning React? Here are My Thoughts as a New React Developer!",
-    "url": "https://dev.to/fahadimran1805/learning-react-here-are-my-thoughts-as-a-new-react-developer-5hbg"
-  },
-  {
-    "date": "2020-09-29T15:30:49.000Z",
-    "title": "12 Ways to Undo Mistakes with Git - Part 1",
-    "url": "https://dev.to/gittower/12-ways-to-undo-mistakes-with-git-part-1-4bmn"
-  },
-  {
-    "date": "2020-09-29T15:27:46.000Z",
-    "title": "Full Stack Developer's Roadmap 🗺",
-    "url": "https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12",
-    "content": "It's easy to focus on the front end of web development, but what about the back end? Learning about..."
-  },
-  {
-    "date": "2020-09-29T15:26:56.000Z",
-    "title": "HowTo: Produce Avro Messages to Kafka using Schema Registry",
-    "url": "https://itnext.io/howto-produce-avro-messages-to-kafka-ec0b770e1f54?source=rss----5b301f10ddcd---4"
-  },
-  {
-    "date": "2020-09-29T15:26:20.000Z",
-    "title": "A Concept: Kubernetes based Private Cloud Platform",
-    "url": "https://itnext.io/a-concept-kubernetes-based-private-cloud-platform-6ba9641c7e01?source=rss----5b301f10ddcd---4",
-    "content": "I have introduced a concept of cloud native data platform without hadoop installation in the previous blog post…"
-  },
-  {
-    "date": "2020-09-29T15:25:48.000Z",
-    "title": "Why you should use Framer Motion",
-    "url": "https://dev.to/esaumorais/why-you-should-use-framer-motion-1gp8",
-    "content": "What is Framer Motion? Think of Framer Motion as more of an improvement or reinvention of..."
-  },
-  {
-    "date": "2020-09-29T15:25:16.000Z",
-    "title": "Kafka Transaction",
-    "url": "https://itnext.io/kafka-transaction-56f022af1b0c?source=rss----5b301f10ddcd---4",
-    "content": "For most cases from my experiences, at least-once or at most-once processing using Kafka was enough and allowed to process message events."
-  },
-  {
-    "date": "2020-09-29T15:22:13.000Z",
-    "title": "Deep Learning Frameworks Compared: MxNet vs TensorFlow vs DL4j vs PyTorch ",
-    "url": "https://www.freecodecamp.org/news/deep-learning-frameworks-compared-mxnet-vs-tensorflow-vs-dl4j-vs-pytorch/",
-    "content": "It's a great time to be a deep learning engineer. In this article, we will go through some of the popular deep learning frameworks like Tensorflow and CNTK."
-  },
-  {
-    "date": "2020-09-29T15:18:34.000Z",
-    "title": "Learning Tips for Programmers",
-    "url": "https://dev.to/aspittel/learning-tips-for-programmers-12g"
-  },
-  {
-    "date": "2020-09-29T15:10:29.000Z",
-    "title": "THE MAIN THINGS TO KNOW ABOUT THE CCPA",
-    "url": "https://medium.com/palqee/the-main-things-to-know-about-the-ccpa-dc9656641e5?source=rss-------8-----------------cybersecurity",
-    "content": "Despite being a technology cluster and hosting many of the world’s largest tech companies, it was only in 2018 that the state of…"
-  },
-  {
-    "date": "2020-09-29T15:06:00.000Z",
-    "title": "How to Use Machine Learning Models to Predict Loan Eligibility ",
-    "url": "https://www.freecodecamp.org/news/use-machine-learning-models-to-predict-loan-eligibility/",
-    "content": "Loans are the core business of banks. The main profit comes directly from the loan's interest. Loan companies grant a loan after an intensive process of verification and validation. However, they&hellip;"
-  },
-  {
-    "date": "2020-09-29T14:55:01.000Z",
-    "title": "Microtica—the DevOps automation platform with open-source components",
-    "url": "https://dev.to/microtica/microtica-the-devops-automation-platform-with-open-source-components-2gdh"
-  },
-  {
-    "date": "2020-09-29T14:54:05.000Z",
-    "title": "Writing a book: is it worth it?",
-    "url": "https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html",
-    "content": "Tweet Published by Martin Kleppmann on 29 Sep 2020. My book, Designing Data-Intensive Applications, recently passed the milestone of 100,000 copies sold. Last year, it was the second-best-selling book&hellip;"
-  },
-  {
-    "date": "2020-09-29T14:21:05.000Z",
-    "title": "Bridging the Developer Experience Gap",
-    "url": "https://dev.to/raisedevs/bridging-the-developer-experience-gap-l0a",
-    "content": "I founded Raise.dev to help every developer advance their career. It started with a pilot that kick..."
-  },
-  {
-    "date": "2020-09-29T13:24:38.000Z",
-    "title": "Celebrate Hacktoberfest 2020 with LitmusChaos",
-    "url": "https://dev.to/prithvi1307/celebrate-hacktoberfest-2020-with-litmuschaos-1d9m"
-  },
-  {
-    "date": "2020-09-29T13:12:50.000Z",
-    "title": "Social Cooling (2017)",
-    "url": "https://www.socialcooling.com/",
-    "content": "If data is the new oil, what's the new global warming? Social Cooling asks the question: is our faith in big data slowly making us more well behaved.. but less human?"
-  },
-  {
-    "date": "2020-09-29T13:00:16.000Z",
-    "title": "Supercharge your Electron apps with Rust",
-    "url": "https://blog.logrocket.com/supercharge-your-electron-apps-with-rust/",
-    "content": "In this tutorial, we'll explore two ways to help speed up Electron apps by offloading CPU-intensive tasks to Rust."
-  },
-  {
-    "date": "2020-09-29T12:55:49.000Z",
-    "title": "Learn How to Code Flappy Bird and Doodle Jump in JavaScript ",
-    "url": "https://www.freecodecamp.org/news/javascript-tutorial-flappy-bird-doodle-jump/",
-    "content": "Games are the most fun programming projects. As soon as you finish creating the games, you get to play them! We've released a tutorial on the freeCodeCamp.org YouTube channel that will help you&hellip;"
-  },
-  {
-    "date": "2020-09-29T12:23:17.000Z",
-    "title": "Javascript ||, aka Why Doesn't This Work?!",
-    "url": "https://dev.to/laurieontech/javascript-aka-why-doesn-t-this-work-3eo6",
-    "content": "I and others constantly want this expression to work and it doesn't, why?"
-  },
-  {
-    "date": "2020-09-29T12:04:05.000Z",
-    "title": "Why did Warren Buffett invest $6B+ in centuries-old Japanese trading houses?",
-    "url": "https://thehustle.co/09292020-Japanese-trading-houses/",
-    "content": "Warren Buffett’s $6B+ bet on Japanese trading houses is his biggest one outside of America. Why did he do it, and what does it say about Japan?"
-  },
-  {
-    "date": "2020-09-29T09:43:28.000Z",
-    "title": "Redis: running Master-Slave replication in Kubernetes",
-    "url": "https://itnext.io/redis-running-master-slave-replication-in-kubernetes-327776a37918?source=rss----5b301f10ddcd---4",
-    "content": "The task is to spin up a Redis instance in a Kubernetes cluster."
-  },
-  {
-    "date": "2020-09-29T09:10:50.000Z",
-    "title": "Why Consumer IoT Security Vulnerabilities Threaten the Industry",
-    "url": "https://theiotmagazine.com/why-consumer-iot-security-vulnerabilities-threaten-the-industry-dbe532c4abc7?source=rss-------8-----------------cybersecurity"
-  },
-  {
-    "date": "2020-09-29T07:32:35.000Z",
-    "title": "Animated Video Scroll Render for Web with Bodymovin & ScrollMagic JS",
-    "url": "https://medium.com/johnphungtech/animated-video-scroll-render-for-web-with-bodymovin-scrollmagic-js-9f8de0a494f4?source=rss-------8-----------------javascript",
-    "content": "One of the current trending theme to get a slick looking product showcase on your website is using an animated scroll render, which you…"
-  },
-  {
-    "date": "2020-09-29T07:06:54.000Z",
-    "title": "CRUD operation using MEAN stack",
-    "url": "https://itnext.io/crud-operation-using-mean-stack-7dfa2f51ec8c?source=rss----5b301f10ddcd---4",
-    "content": "Github:https://github.com/mehulk05/Blog-using-mean"
   }
 ]
