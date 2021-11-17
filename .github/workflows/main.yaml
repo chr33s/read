@@ -13,7 +13,7 @@ jobs:
     - name: Build data
       uses: actions/setup-node@v1
       with:
-        node-version: '10.x'
+        node-version: '16.x'
     - run: npm install
     - run: node ./index.js
     - name: Commit data
