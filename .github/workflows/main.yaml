@@ -15,7 +15,9 @@ jobs:
       with:
         node-version: '16.x'
     - run: npm install
-    - run: node ./index.js
+    - uses: nick-invision/retry@v2
+      with:
+        command: node ./index.js
     - name: Commit data
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
